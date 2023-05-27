@@ -9857,11 +9857,12 @@
                                                                                     class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center   qodef--icon-pack ">
                                                                                     <h1 class="qodef-m-title"
                                                                                         style="font-style: normal">
-                                                                                        WE CREATE <span
-                                                                                            class="qodef--custom">DESIGNS</span>
-                                                                                        THAT <span
-                                                                                            class="qodef--custom">STAND</span>
-                                                                                        OUT </h1>
+                                                                                        No Quotes <span
+                                                                                            class="qodef--custom">For
+                                                                                            Today</span>
+                                                                                        I Just <span
+                                                                                            class="qodef--custom">Create</span>
+                                                                                        Something That Matter </h1>
                                                                                     <div class="qodef-m-icon-wrapper">
                                                                                         <span
                                                                                             class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
@@ -10115,7 +10116,7 @@
                                         </div>
                                     </div>
                                 </section>
-                                <section
+                                <!-- <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-15e8d8c elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
                                     data-id="15e8d8c" data-element_type="section"
                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -10125,7 +10126,7 @@
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <section
                                                     class="elementor-section elementor-inner-section elementor-element elementor-element-587c302 elementor-section-full_width qodef-elementor-content-grid elementor-section-content-middle elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                                    data-id="587c302" data-element_type="section">
+                                                    data-id="587c302" data-element_type="section" style="display:none;">
                                                     <div class="elementor-container elementor-column-gap-no">
                                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7db6fa1"
                                                             data-id="7db6fa1" data-element_type="column">
@@ -10314,7 +10315,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </section> -->
                                 <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-85b49e5 elementor-section-full_width qodef-elementor-content-grid qodef-extended-grid qodef-extended-grid--right qodef-extended-grid-disabled--1024 elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
                                     data-id="85b49e5" data-element_type="section">
@@ -10497,46 +10498,47 @@
                                                             class="qodef-shortcode qodef-m  qodef-video-button qodef--has-img">
                                                             <div class="qodef-m-image">
                                                                 <img width="2560" height="1093"
-                                                                    src="wp-content/uploads/2022/03/main-home-video-button.jpg"
+                                                                    src="https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button.jpg"
                                                                     class="attachment-full size-full" alt="m"
                                                                     loading="lazy"
                                                                     style="min-height: 250px; object-fit: cover"
-                                                                    srcset="./wp-content/uploads/2022/03/main-home-video-button.jpg 2560w, ./wp-content/uploads/2022/03/main-home-video-button-600x256.jpg 600w, ./wp-content/uploads/2022/03/main-home-video-button-300x128.jpg 300w, ./wp-content/uploads/2022/03/main-home-video-button-1024x437.jpg 1024w, ./wp-content/uploads/2022/03/main-home-video-button-768x328.jpg 768w, ./wp-content/uploads/2022/03/main-home-video-button-1536x656.jpg 1536w, ./wp-content/uploads/2022/03/main-home-video-button-2048x874.jpg 2048w"
-                                                                    sizes="(max-width: 2560px) 100vw, 2560px" />
+                                                                    srcset="https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button.jpg 2560w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-600x256.jpg 600w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-300x128.jpg 300w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-1024x437.jpg 1024w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-768x328.jpg 768w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-1536x656.jpg 1536w, https://munich.qodeinteractive.com/wp-content/uploads/2022/03/main-home-video-button-2048x874.jpg 2048w"
+                                                                    sizes="(max-width: 2560px) 100vw, 2560px">
                                                             </div>
-                                                            <a itemprop="url"
-                                                                class="qodef-m-play qodef-magnific-popup qodef-popup-item"
-                                                                style="stroke: #FFFFFF"
-                                                                href="wp-content/uploads/2022/06/main-home-video.mp4"
-                                                                data-type="iframe">
-                                                                <span class="qodef-m-play-inner">
-                                                                    <svg class="qodef-svg--play qodef-e-play-button"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                        width="73.3px" height="65.9px" x="0px" y="0px"
-                                                                        viewBox="0 0 73.3 65.9"
-                                                                        style="enable-background:new 0 0 73.3 65.9;"
-                                                                        xml:space="preserve">
-                                                                        <style type="text/css">
-                                                                        .st12 {
-                                                                            fill: none;
-                                                                            stroke-miterlimit: 10;
-                                                                        }
-                                                                        </style>
-                                                                        <polygon class="st12"
-                                                                            points="1.1,1 72.3,7.7 72.3,64.8 2.9,60.2 " />
-                                                                        <path class="st12"
-                                                                            d="M29,12.8l20.4,20.4c0,0,0,0.1,0,0.1L29,50.4c-0.1,0-0.1,0-0.1-0.1V12.8C28.8,12.7,28.9,12.7,29,12.8z" />
-                                                                    </svg> </span>
-                                                            </a>
                                                         </div>
+                                                        <a itemprop="url"
+                                                            class="qodef-m-play qodef-magnific-popup qodef-popup-item"
+                                                            style="stroke: #FFFFFF"
+                                                            href="https://munich.qodeinteractive.com/wp-content/uploads/2022/06/main-home-video.mp4"
+                                                            data-type="iframe">
+                                                            <span class="qodef-m-play-inner">
+                                                                <svg class="qodef-svg--play qodef-e-play-button"
+                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                    width="73.3px" height="65.9px" x="0px" y="0px"
+                                                                    viewBox="0 0 73.3 65.9"
+                                                                    style="enable-background:new 0 0 73.3 65.9;"
+                                                                    xml:space="preserve">
+                                                                    <style type="text/css">
+                                                                    .st12 {
+                                                                        fill: none;
+                                                                        stroke-miterlimit: 10;
+                                                                    }
+                                                                    </style>
+                                                                    <polygon class="st12"
+                                                                        points="1.1,1 72.3,7.7 72.3,64.8 2.9,60.2 " />
+                                                                    <path class="st12"
+                                                                        d="M29,12.8l20.4,20.4c0,0,0,0.1,0,0.1L29,50.4c-0.1,0-0.1,0-0.1-0.1V12.8C28.8,12.7,28.9,12.7,29,12.8z" />
+                                                                </svg> </span>
+                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
+                            </div>
+                            </section>
+                            <!-- <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-6865a43 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
                                     data-id="6865a43" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-no">
@@ -10645,845 +10647,719 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-f57775c elementor-section-full_width qodef-elementor-content-grid qodef-extended-grid qodef-extended-grid--right qodef-extended-grid-disabled--1024 qodef-frame-svg-disable-below--1024 elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="f57775c" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c43b052"
-                                            data-id="c43b052" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-3d1e7c1 elementor-widget elementor-widget-munich_core_section_title"
-                                                    data-id="3d1e7c1" data-element_type="widget"
-                                                    data-widget_type="munich_core_section_title.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
-                                                            <h2 class="qodef-m-title" style="font-style: normal">
-                                                                we are fully<br /> <span
-                                                                    class="qodef--custom">dedicated</span> to you </h2>
-                                                            <div class="qodef-m-icon-wrapper">
-                                                                <span
-                                                                    class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
-                                                                </span>
-                                                            </div>
-                                                            <p class="qodef-m-text" style="margin-top: 0px">Percipit
-                                                                elaboraret ei has, vix suas ocurreret pertinacia et. Mei
-                                                                quo agam epicuri percipit. Equidem praesent intellegebat
-                                                                ei quo, ei nonummy atomorum inimicus.</p>
+                                </section> -->
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-f57775c elementor-section-full_width qodef-elementor-content-grid qodef-extended-grid qodef-extended-grid--right qodef-extended-grid-disabled--1024 qodef-frame-svg-disable-below--1024 elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                data-id="f57775c" data-element_type="section">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c43b052"
+                                        data-id="c43b052" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-3d1e7c1 elementor-widget elementor-widget-munich_core_section_title"
+                                                data-id="3d1e7c1" data-element_type="widget"
+                                                data-widget_type="munich_core_section_title.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
+                                                        <h2 class="qodef-m-title" style="font-style: normal">
+                                                            we are fully<br /> <span
+                                                                class="qodef--custom">dedicated</span> to you </h2>
+                                                        <div class="qodef-m-icon-wrapper">
+                                                            <span
+                                                                class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
+                                                            </span>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-13d355d elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="13d355d" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
-                                                            href="our-team/index.html" target="_self">
-                                                            <span class="qodef-m-text">View More</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-1"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 206.55 79.66"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-15"
-                                                                        d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
+                                                        <p class="qodef-m-text" style="margin-top: 0px">Percipit
+                                                            elaboraret ei has, vix suas ocurreret pertinacia et. Mei
+                                                            quo agam epicuri percipit. Equidem praesent intellegebat
+                                                            ei quo, ei nonummy atomorum inimicus.</p>
                                                     </div>
                                                 </div>
                                             </div>
+                                            <div class="elementor-element elementor-element-13d355d elementor-widget elementor-widget-munich_core_button"
+                                                data-id="13d355d" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
+                                                        href="our-team/index.html" target="_self">
+                                                        <span class="qodef-m-text">View More</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-1"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 206.55 79.66"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-15"
+                                                                    d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cd397bc"
-                                            data-id="cd397bc" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-d8883d7 elementor-widget elementor-widget-slider_revolution"
-                                                    data-id="d8883d7" data-element_type="widget"
-                                                    data-widget_type="slider_revolution.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="wp-block-themepunch-revslider">
-                                                            <p class="rs-p-wp-fix"></p>
-                                                            <rs-module-wrap id="rev_slider_6_3_wrapper"
-                                                                data-source="gallery"
-                                                                style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
-                                                                <rs-module id="rev_slider_6_3" style=""
-                                                                    data-version="6.6.5">
-                                                                    <rs-slides
-                                                                        style="overflow: hidden; position: absolute;">
-                                                                        <rs-slide style="position: absolute;"
-                                                                            data-key="rs-18" data-title="Slide"
-                                                                            data-anim="adpr:false;" data-in="o:0;"
-                                                                            data-out="a:false;"
-                                                                            class="qodef--custom-tilt-rev-holder">
-                                                                            <img src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                                                alt="Slide" title="Main Home"
-                                                                                class="rev-slidebg tp-rs-img rs-lazyload"
-                                                                                data-lazyload="//munich.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/transparent.png"
+                                    </div>
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cd397bc"
+                                        data-id="cd397bc" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-d8883d7 elementor-widget elementor-widget-slider_revolution"
+                                                data-id="d8883d7" data-element_type="widget"
+                                                data-widget_type="slider_revolution.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="wp-block-themepunch-revslider">
+                                                        <p class="rs-p-wp-fix"></p>
+                                                        <rs-module-wrap id="rev_slider_6_3_wrapper"
+                                                            data-source="gallery"
+                                                            style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+                                                            <rs-module id="rev_slider_6_3" style=""
+                                                                data-version="6.6.5">
+                                                                <rs-slides
+                                                                    style="overflow: hidden; position: absolute;">
+                                                                    <rs-slide style="position: absolute;"
+                                                                        data-key="rs-18" data-title="Slide"
+                                                                        data-anim="adpr:false;" data-in="o:0;"
+                                                                        data-out="a:false;"
+                                                                        class="qodef--custom-tilt-rev-holder">
+                                                                        <img src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+                                                                            alt="Slide" title="Main Home"
+                                                                            class="rev-slidebg tp-rs-img rs-lazyload"
+                                                                            data-lazyload="//munich.qodeinteractive.com/wp-content/plugins/revslider/public/assets/assets/transparent.png"
+                                                                            data-no-retina>
+                                                                        <rs-layer id="slider-6-slide-18-layer-0"
+                                                                            class="qodef--custom-tilt-rev"
+                                                                            data-type="image"
+                                                                            data-xy="x:l,l,c,c;xo:3px,0,-113px,-44px;y:m;yo:-4px,-4px,-4px,-6px;"
+                                                                            data-text="w:normal;"
+                                                                            data-dim="w:479px,390px,420px,230px;h:395px,322px,346px,190px;"
+                                                                            data-basealign="slide" data-rsp_o="off"
+                                                                            data-rsp_bd="off"
+                                                                            data-frame_0="sX:0.6;sY:0.5;"
+                                                                            data-frame_1="e:elastic.inOut;sp:1100;"
+                                                                            data-frame_999="o:0;st:w;"
+                                                                            style="z-index:5;"><img
+                                                                                src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+                                                                                alt="s" class="tp-rs-img rs-lazyload"
+                                                                                width="479" height="395"
+                                                                                data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-2.png"
                                                                                 data-no-retina>
-                                                                            <rs-layer id="slider-6-slide-18-layer-0"
-                                                                                class="qodef--custom-tilt-rev"
-                                                                                data-type="image"
-                                                                                data-xy="x:l,l,c,c;xo:3px,0,-113px,-44px;y:m;yo:-4px,-4px,-4px,-6px;"
-                                                                                data-text="w:normal;"
-                                                                                data-dim="w:479px,390px,420px,230px;h:395px,322px,346px,190px;"
-                                                                                data-basealign="slide" data-rsp_o="off"
-                                                                                data-rsp_bd="off"
-                                                                                data-frame_0="sX:0.6;sY:0.5;"
-                                                                                data-frame_1="e:elastic.inOut;sp:1100;"
-                                                                                data-frame_999="o:0;st:w;"
-                                                                                style="z-index:5;"><img
-                                                                                    src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                                                    alt="s"
-                                                                                    class="tp-rs-img rs-lazyload"
-                                                                                    width="479" height="395"
-                                                                                    data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-2.png"
-                                                                                    data-no-retina>
-                                                                            </rs-layer>
-                                                                            <rs-layer id="slider-6-slide-18-layer-1"
-                                                                                class="qodef--custom-tilt-rev"
-                                                                                data-type="image"
-                                                                                data-xy="x:l,l,c,c;xo:117px,94px,2px,2px;y:m;yo:78px,58px,68px,30px;"
-                                                                                data-text="w:normal;"
-                                                                                data-dim="w:508px,400px,450px,230px;h:258px,203px,229px,117px;"
-                                                                                data-basealign="slide" data-rsp_o="off"
-                                                                                data-rsp_bd="off"
-                                                                                data-frame_0="y:100%;o:1;"
-                                                                                data-frame_0_mask="u:t;"
-                                                                                data-frame_1="e:power4.inOut;st:200;sp:1100;"
-                                                                                data-frame_1_mask="u:t;"
-                                                                                data-frame_999="o:0;st:w;"
-                                                                                style="z-index:6;"><img
-                                                                                    src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                                                    alt="s"
-                                                                                    class="tp-rs-img rs-lazyload"
-                                                                                    width="508" height="258"
-                                                                                    data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-1.png"
-                                                                                    data-no-retina>
-                                                                            </rs-layer>
-                                                                            <rs-layer id="slider-6-slide-18-layer-2"
-                                                                                class="qodef--custom-tilt-rev"
-                                                                                data-type="image"
-                                                                                data-xy="x:l,l,c,c;xo:624px,487px,266px,133px;y:m;yo:-100px,-88px,-98px,-60px;"
-                                                                                data-text="w:normal;"
-                                                                                data-dim="w:96px,70px,90px,45px;h:97px,71px,91px,45px;"
-                                                                                data-basealign="slide" data-rsp_o="off"
-                                                                                data-rsp_bd="off"
-                                                                                data-frame_0="sX:0;sY:0;o:1;rZ:-40deg;"
-                                                                                data-frame_1="st:600;sp:900;"
-                                                                                data-frame_999="o:0;st:w;"
-                                                                                style="z-index:7;"><img
-                                                                                    src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
-                                                                                    alt="s"
-                                                                                    class="tp-rs-img rs-lazyload"
-                                                                                    width="96" height="97"
-                                                                                    data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-3.png"
-                                                                                    data-no-retina>
-                                                                            </rs-layer>
-                                                                        </rs-slide>
-                                                                    </rs-slides>
-                                                                </rs-module>
-                                                                <script>
-                                                                setREVStartSize({
-                                                                    c: 'rev_slider_6_3',
-                                                                    rl: [1920, 1700, 1025, 680],
-                                                                    el: [570, 620, 390, 220],
-                                                                    gw: [1300, 1100, 600, 300],
-                                                                    gh: [570, 620, 390, 220],
-                                                                    type: 'hero',
-                                                                    justify: '',
-                                                                    layout: 'fullwidth',
-                                                                    mh: "0"
-                                                                });
-                                                                if (window.RS_MODULES !== undefined && window.RS_MODULES
-                                                                    .modules !== undefined && window.RS_MODULES.modules[
-                                                                        "revslider63"] !== undefined) {
-                                                                    window.RS_MODULES.modules["revslider63"].once =
-                                                                        false;
-                                                                    window.revapi6 = undefined;
-                                                                    if (window.RS_MODULES.checkMinimal !== undefined)
-                                                                        window.RS_MODULES.checkMinimal()
-                                                                }
-                                                                </script>
-                                                            </rs-module-wrap>
+                                                                        </rs-layer>
+                                                                        <rs-layer id="slider-6-slide-18-layer-1"
+                                                                            class="qodef--custom-tilt-rev"
+                                                                            data-type="image"
+                                                                            data-xy="x:l,l,c,c;xo:117px,94px,2px,2px;y:m;yo:78px,58px,68px,30px;"
+                                                                            data-text="w:normal;"
+                                                                            data-dim="w:508px,400px,450px,230px;h:258px,203px,229px,117px;"
+                                                                            data-basealign="slide" data-rsp_o="off"
+                                                                            data-rsp_bd="off" data-frame_0="y:100%;o:1;"
+                                                                            data-frame_0_mask="u:t;"
+                                                                            data-frame_1="e:power4.inOut;st:200;sp:1100;"
+                                                                            data-frame_1_mask="u:t;"
+                                                                            data-frame_999="o:0;st:w;"
+                                                                            style="z-index:6;"><img
+                                                                                src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+                                                                                alt="s" class="tp-rs-img rs-lazyload"
+                                                                                width="508" height="258"
+                                                                                data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-1.png"
+                                                                                data-no-retina>
+                                                                        </rs-layer>
+                                                                        <rs-layer id="slider-6-slide-18-layer-2"
+                                                                            class="qodef--custom-tilt-rev"
+                                                                            data-type="image"
+                                                                            data-xy="x:l,l,c,c;xo:624px,487px,266px,133px;y:m;yo:-100px,-88px,-98px,-60px;"
+                                                                            data-text="w:normal;"
+                                                                            data-dim="w:96px,70px,90px,45px;h:97px,71px,91px,45px;"
+                                                                            data-basealign="slide" data-rsp_o="off"
+                                                                            data-rsp_bd="off"
+                                                                            data-frame_0="sX:0;sY:0;o:1;rZ:-40deg;"
+                                                                            data-frame_1="st:600;sp:900;"
+                                                                            data-frame_999="o:0;st:w;"
+                                                                            style="z-index:7;"><img
+                                                                                src="wp-content/plugins/revslider/public/assets/assets/dummy.png"
+                                                                                alt="s" class="tp-rs-img rs-lazyload"
+                                                                                width="96" height="97"
+                                                                                data-lazyload="//munich.qodeinteractive.com/wp-content/uploads/2022/04/main-home-rev-inner-img-3.png"
+                                                                                data-no-retina>
+                                                                        </rs-layer>
+                                                                    </rs-slide>
+                                                                </rs-slides>
+                                                            </rs-module>
+                                                            <script>
+                                                            setREVStartSize({
+                                                                c: 'rev_slider_6_3',
+                                                                rl: [1920, 1700, 1025, 680],
+                                                                el: [570, 620, 390, 220],
+                                                                gw: [1300, 1100, 600, 300],
+                                                                gh: [570, 620, 390, 220],
+                                                                type: 'hero',
+                                                                justify: '',
+                                                                layout: 'fullwidth',
+                                                                mh: "0"
+                                                            });
+                                                            if (window.RS_MODULES !== undefined && window.RS_MODULES
+                                                                .modules !== undefined && window.RS_MODULES.modules[
+                                                                    "revslider63"] !== undefined) {
+                                                                window.RS_MODULES.modules["revslider63"].once =
+                                                                    false;
+                                                                window.revapi6 = undefined;
+                                                                if (window.RS_MODULES.checkMinimal !== undefined)
+                                                                    window.RS_MODULES.checkMinimal()
+                                                            }
+                                                            </script>
+                                                        </rs-module-wrap>
 
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-61cca147 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
-                                    data-id="61cca147" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f12fb5f"
-                                            data-id="7f12fb5f" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-559bda22 elementor-widget elementor-widget-munich_core_portfolio_list"
-                                                    data-id="559bda22" data-element_type="widget"
-                                                    data-widget_type="munich_core_portfolio_list.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="qodef-shortcode qodef-m  qodef-portfolio-list qodef-item-layout--info-on-hover qodef-text-skin--light qodef-overlay-border-skin--light qodef-overlay-background-skin--dark   qodef-grid qodef-layout--masonry qodef-items--fixed qodef-gutter--no qodef-col-num--4 qodef-item-layout--info-on-hover qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1 qodef-hover-animation--fade-in"
-                                                            data-options="{&quot;plugin&quot;:&quot;munich_core&quot;,&quot;module&quot;:&quot;post-types\/portfolio\/shortcodes&quot;,&quot;shortcode&quot;:&quot;portfolio-list&quot;,&quot;post_type&quot;:&quot;portfolio-item&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;masonry&quot;,&quot;masonry_images_proportion&quot;:&quot;fixed&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;6&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;portfolio-category&quot;,&quot;tax_slug&quot;:&quot;Design&quot;,&quot;layout&quot;:&quot;info-on-hover&quot;,&quot;hover_animation_info-below&quot;:&quot;overlay&quot;,&quot;hover_animation_info-on-hover&quot;:&quot;fade-in&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;custom_margin&quot;:&quot;no&quot;,&quot;text_skin&quot;:&quot;light&quot;,&quot;overlay_border_skin&quot;:&quot;light&quot;,&quot;overlay_background_skin&quot;:&quot;dark&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;MunichCore_Portfolio_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;portfolio-category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;portfolio-category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;Design&quot;}]}}">
-                                                            <div class="qodef-grid-inner clear">
-                                                                <div class="qodef-grid-masonry-sizer"></div>
-                                                                <div class="qodef-grid-masonry-gutter"></div>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--landscape post-2032 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img1.jpg)">
-                                                                            <img loading="lazy" width="960" height="480"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img1.jpg"
-                                                                                class="attachment-munich_core_image_size_landscape size-munich_core_image_size_landscape wp-post-image"
-                                                                                alt="v"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img1.jpg 960w, ./wp-content/uploads/2022/03/h1-port-img1-600x300.jpg 600w, ./wp-content/uploads/2022/03/h1-port-img1-300x150.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img1-768x384.jpg 768w"
-                                                                                sizes="(max-width: 960px) 100vw, 960px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
+                                </div>
+                            </section>
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-61cca147 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
+                                data-id="61cca147" data-element_type="section">
+                                <div class="elementor-container elementor-column-gap-default">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f12fb5f"
+                                        data-id="7f12fb5f" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-559bda22 elementor-widget elementor-widget-munich_core_portfolio_list"
+                                                data-id="559bda22" data-element_type="widget"
+                                                data-widget_type="munich_core_portfolio_list.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="qodef-shortcode qodef-m  qodef-portfolio-list qodef-item-layout--info-on-hover qodef-text-skin--light qodef-overlay-border-skin--light qodef-overlay-background-skin--dark   qodef-grid qodef-layout--masonry qodef-items--fixed qodef-gutter--no qodef-col-num--4 qodef-item-layout--info-on-hover qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1 qodef-hover-animation--fade-in"
+                                                        data-options="{&quot;plugin&quot;:&quot;munich_core&quot;,&quot;module&quot;:&quot;post-types\/portfolio\/shortcodes&quot;,&quot;shortcode&quot;:&quot;portfolio-list&quot;,&quot;post_type&quot;:&quot;portfolio-item&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;masonry&quot;,&quot;masonry_images_proportion&quot;:&quot;fixed&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;6&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;portfolio-category&quot;,&quot;tax_slug&quot;:&quot;Design&quot;,&quot;layout&quot;:&quot;info-on-hover&quot;,&quot;hover_animation_info-below&quot;:&quot;overlay&quot;,&quot;hover_animation_info-on-hover&quot;:&quot;fade-in&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;custom_margin&quot;:&quot;no&quot;,&quot;text_skin&quot;:&quot;light&quot;,&quot;overlay_border_skin&quot;:&quot;light&quot;,&quot;overlay_background_skin&quot;:&quot;dark&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;MunichCore_Portfolio_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;portfolio-category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;portfolio-category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;Design&quot;}]}}">
+                                                        <div class="qodef-grid-inner clear">
+                                                            <div class="qodef-grid-masonry-sizer"></div>
+                                                            <div class="qodef-grid-masonry-gutter"></div>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--landscape post-2032 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img1.jpg)">
+                                                                        <img loading="lazy" width="960" height="480"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img1.jpg"
+                                                                            class="attachment-munich_core_image_size_landscape size-munich_core_image_size_landscape wp-post-image"
+                                                                            alt="v"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img1.jpg 960w, ./wp-content/uploads/2022/03/h1-port-img1-600x300.jpg 600w, ./wp-content/uploads/2022/03/h1-port-img1-300x150.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img1-768x384.jpg 768w"
+                                                                            sizes="(max-width: 960px) 100vw, 960px" />
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/two-skeletons/index.html"
-                                                                                            target="_self">
-                                                                                            Two Skeletons </a>
-                                                                                    </h4>
-                                                                                </div>
                                                                             </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
-                                                                        </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/two-skeletons/index.html"
-                                                                            target="_self"></a>
-                                                                    </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--portrait post-2047 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img2.jpg)">
-                                                                            <img width="480" height="960"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img2.jpg"
-                                                                                class="attachment-munich_core_image_size_portrait size-munich_core_image_size_portrait wp-post-image"
-                                                                                alt="b" loading="lazy"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img2.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img2-150x300.jpg 150w"
-                                                                                sizes="(max-width: 480px) 100vw, 480px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/to-the-top/index.html"
-                                                                                            target="_self">
-                                                                                            To The Top </a>
-                                                                                    </h4>
-                                                                                </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/two-skeletons/index.html"
+                                                                                        target="_self">Video
+                                                                                        Works</a>
+                                                                                </h4>
                                                                             </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
                                                                         </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/to-the-top/index.html"
-                                                                            target="_self"></a>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
                                                                     </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--square post-2050 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img3.jpg)">
-                                                                            <img width="480" height="480"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img3.jpg"
-                                                                                class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
-                                                                                alt="c" loading="lazy"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img3.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img3-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img3-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img3-150x150.jpg 150w"
-                                                                                sizes="(max-width: 480px) 100vw, 480px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/white-stone/index.html"
-                                                                                            target="_self">
-                                                                                            White Stone </a>
-                                                                                    </h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
-                                                                        </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/white-stone/index.html"
-                                                                            target="_self"></a>
-                                                                    </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--square post-2040 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img4.jpg)">
-                                                                            <img width="480" height="480"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img4.jpg"
-                                                                                class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
-                                                                                alt="x" loading="lazy"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img4.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img4-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img4-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img4-150x150.jpg 150w"
-                                                                                sizes="(max-width: 480px) 100vw, 480px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/empty-cube/index.html"
-                                                                                            target="_self">
-                                                                                            Empty Cube </a>
-                                                                                    </h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
-                                                                        </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/empty-cube/index.html"
-                                                                            target="_self"></a>
-                                                                    </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--square post-2045 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img5.jpg)">
-                                                                            <img width="480" height="480"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img5.jpg"
-                                                                                class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
-                                                                                alt="b" loading="lazy"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img5.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img5-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img5-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img5-150x150.jpg 150w"
-                                                                                sizes="(max-width: 480px) 100vw, 480px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/poster-art/index.html"
-                                                                                            target="_self">
-                                                                                            Poster Art </a>
-                                                                                    </h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
-                                                                        </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/poster-art/index.html"
-                                                                            target="_self"></a>
-                                                                    </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-grid-item qodef-item--square post-2052 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media-image qodef--background"
-                                                                            style="background-image: url( wp-content/uploads/2022/03/h1-port-img6.jpg)">
-                                                                            <img width="480" height="480"
-                                                                                src="wp-content/uploads/2022/03/h1-port-img6.jpg"
-                                                                                class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
-                                                                                alt="b" loading="lazy"
-                                                                                srcset="./wp-content/uploads/2022/03/h1-port-img6.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img6-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img6-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img6-150x150.jpg 150w"
-                                                                                sizes="(max-width: 480px) 100vw, 480px" />
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-content-inner">
-                                                                                <div class="qodef-e-top-holder">
-                                                                                    <div class="qodef-e-info">
-                                                                                        <a href="portfolio-category/design/index.html"
-                                                                                            rel="tag">Design</a>
-                                                                                        <div
-                                                                                            class="qodef-info-separator-end">
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="qodef-e-text">
-                                                                                    <h4 itemprop="name"
-                                                                                        class="qodef-e-title entry-title">
-                                                                                        <a itemprop="url"
-                                                                                            class="qodef-e-title-link"
-                                                                                            href="portfolio-item/the-artist/index.html"
-                                                                                            target="_self">
-                                                                                            The Artist </a>
-                                                                                    </h4>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-bg-holder"><svg
-                                                                                    class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="0 0 854.8 406"
-                                                                                    preserveAspectRatio="none"
-                                                                                    style="enable-background:new 0 0 854.8 406;"
-                                                                                    xml:space="preserve">
-                                                                                    <polygon
-                                                                                        vector-effect="non-scaling-stroke"
-                                                                                        fill="none"
-                                                                                        stroke-miterlimit="10"
-                                                                                        stroke-width="1.5"
-                                                                                        points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
-                                                                                </svg></div>
-                                                                        </div>
-                                                                        <a itemprop="url" class="qodef-e-post-link"
-                                                                            href="portfolio-item/the-artist/index.html"
-                                                                            target="_self"></a>
-                                                                    </div>
-                                                                </article>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-b0b4e36 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="b0b4e36" data-element_type="section"
-                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8f8de78"
-                                            data-id="8f8de78" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-fa4c078 elementor-widget elementor-widget-munich_core_section_title"
-                                                    data-id="fa4c078" data-element_type="widget"
-                                                    data-widget_type="munich_core_section_title.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
-                                                            <h2 class="qodef-m-title" style="font-style: normal">
-                                                                our newsletter </h2>
-                                                            <div class="qodef-m-icon-wrapper">
-                                                                <span
-                                                                    class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-a8be17d elementor-widget__width-initial elementor-widget-mobile_extra__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-wp-widget-munich_core_contact_form_7"
-                                                    data-id="a8be17d" data-element_type="widget"
-                                                    data-widget_type="wp-widget-munich_core_contact_form_7.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="qodef-contact-form-7">
-                                                            <div role="form" class="wpcf7" id="wpcf7-f15-p16-o1"
-                                                                lang="en-US" dir="ltr">
-                                                                <div class="screen-reader-response">
-                                                                    <p role="status" aria-live="polite"
-                                                                        aria-atomic="true"></p>
-                                                                    <ul></ul>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/two-skeletons/index.html"
+                                                                        target="_self"></a>
                                                                 </div>
-                                                                <form action="./#wpcf7-f15-p16-o1" method="post"
-                                                                    class="wpcf7-form init demo" novalidate="novalidate"
-                                                                    data-status="init">
-                                                                    <div style="display: none;">
-                                                                        <input type="hidden" name="_wpcf7" value="15" />
-                                                                        <input type="hidden" name="_wpcf7_version"
-                                                                            value="5.6.4" />
-                                                                        <input type="hidden" name="_wpcf7_locale"
-                                                                            value="en_US" />
-                                                                        <input type="hidden" name="_wpcf7_unit_tag"
-                                                                            value="wpcf7-f15-p16-o1" />
-                                                                        <input type="hidden"
-                                                                            name="_wpcf7_container_post" value="16" />
-                                                                        <input type="hidden"
-                                                                            name="_wpcf7_posted_data_hash" value="" />
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--portrait post-2047 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img2.jpg)">
+                                                                        <img width="480" height="960"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img2.jpg"
+                                                                            class="attachment-munich_core_image_size_portrait size-munich_core_image_size_portrait wp-post-image"
+                                                                            alt="b" loading="lazy"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img2.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img2-150x300.jpg 150w"
+                                                                            sizes="(max-width: 480px) 100vw, 480px" />
                                                                     </div>
-                                                                    <div class="qodef-subscribe-form">
-                                                                        <div class="qodef-subscribe-form-inner">
-                                                                            <span class="wpcf7-form-control-wrap"
-                                                                                data-name="your-email"><input
-                                                                                    type="email" name="your-email"
-                                                                                    value="" size="40"
-                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                                    aria-required="true"
-                                                                                    aria-invalid="false"
-                                                                                    placeholder="Type your email here*" /></span>
-                                                                            <button type="submit"
-                                                                                class="qodef--button-search-inside"><svg
-                                                                                    class="qodef-svg--search"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    width="24px" height="24px" x="0px"
-                                                                                    y="0px" viewBox="0 0 32.2 32.2"
-                                                                                    style="enable-background:new 0 0 32.2 32.2;"
-                                                                                    xml:space="preserve">
-                                                                                    <g>
-                                                                                        <path
-                                                                                            d="M19,0C11.8,0,6,5.8,6,13c0,3.1,1.1,5.9,2.9,8.2l-8.6,8.6c-0.5,0.5-0.5,1.4,0,2s1.4,0.5,2,0l8.6-8.6 c2.2,1.8,5.1,2.9,8.2,2.9c7.2,0,13-5.8,13-13S26.2,0,19,0z M19,24c-6.1,0-11-4.9-11-11S12.9,2,19,2s11,4.9,11,11S25.1,24,19,24z">
-                                                                                        </path>
-                                                                                    </g>
-                                                                                </svg></button>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/to-the-top/index.html"
+                                                                                        target="_self">
+                                                                                        Film Works </a>
+                                                                                </h4>
+                                                                            </div>
                                                                         </div>
-                                                                        <button name="submit" type="submit"
-                                                                            class="qodef-submit-holder qodef-button qodef-layout--outlined  qodef-size--medium"
-                                                                            value="Submit">
-                                                                            <span class="qodef-m-text">Sign
-                                                                                Up</span><span class="qodef-m-bg"><svg
-                                                                                    class="qodef-svg--custom-shape-2"
-                                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                                                                                    x="0px" y="0px"
-                                                                                    viewBox="14 2 176.17 65.11"
-                                                                                    preserveAspectRatio="none"
-                                                                                    xml:space="preserve">
-                                                                                    <path
-                                                                                        id="qodef-svg--custom-shape-cf-678h"
-                                                                                        d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z" />
-                                                                                </svg></span></button>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
                                                                     </div>
-                                                                    <div class="wpcf7-response-output"
-                                                                        aria-hidden="true"></div>
-                                                                </form>
-                                                            </div>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/to-the-top/index.html"
+                                                                        target="_self"></a>
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--square post-2050 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img3.jpg)">
+                                                                        <img width="480" height="480"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img3.jpg"
+                                                                            class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
+                                                                            alt="c" loading="lazy"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img3.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img3-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img3-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img3-150x150.jpg 150w"
+                                                                            sizes="(max-width: 480px) 100vw, 480px" />
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/white-stone/index.html"
+                                                                                        target="_self">
+                                                                                        Design Works </a>
+                                                                                </h4>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
+                                                                    </div>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/white-stone/index.html"
+                                                                        target="_self"></a>
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--square post-2040 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img4.jpg)">
+                                                                        <img width="480" height="480"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img4.jpg"
+                                                                            class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
+                                                                            alt="x" loading="lazy"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img4.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img4-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img4-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img4-150x150.jpg 150w"
+                                                                            sizes="(max-width: 480px) 100vw, 480px" />
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/empty-cube/index.html"
+                                                                                        target="_self">Blog</a>
+                                                                                </h4>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
+                                                                    </div>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/empty-cube/index.html"
+                                                                        target="_self"></a>
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--square post-2045 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img5.jpg)">
+                                                                        <img width="480" height="480"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img5.jpg"
+                                                                            class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
+                                                                            alt="b" loading="lazy"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img5.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img5-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img5-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img5-150x150.jpg 150w"
+                                                                            sizes="(max-width: 480px) 100vw, 480px" />
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/poster-art/index.html"
+                                                                                        target="_self">
+                                                                                        Personal Projects
+                                                                                    </a>
+                                                                                </h4>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
+                                                                    </div>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/poster-art/index.html"
+                                                                        target="_self"></a>
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-grid-item qodef-item--square post-2052 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-design portfolio-tag-drawing">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media-image qodef--background"
+                                                                        style="background-image: url( wp-content/uploads/2022/03/h1-port-img6.jpg)">
+                                                                        <img width="480" height="480"
+                                                                            src="wp-content/uploads/2022/03/h1-port-img6.jpg"
+                                                                            class="attachment-munich_core_image_size_square size-munich_core_image_size_square wp-post-image"
+                                                                            alt="b" loading="lazy"
+                                                                            srcset="./wp-content/uploads/2022/03/h1-port-img6.jpg 480w, ./wp-content/uploads/2022/03/h1-port-img6-300x300.jpg 300w, ./wp-content/uploads/2022/03/h1-port-img6-100x100.jpg 100w, ./wp-content/uploads/2022/03/h1-port-img6-150x150.jpg 150w"
+                                                                            sizes="(max-width: 480px) 100vw, 480px" />
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-content-inner">
+                                                                            <div class="qodef-e-top-holder">
+                                                                                <div class="qodef-e-info">
+                                                                                    <a href="portfolio-category/design/index.html"
+                                                                                        rel="tag"></a>
+                                                                                    <div
+                                                                                        class="qodef-info-separator-end">
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="qodef-e-text">
+                                                                                <h4 itemprop="name"
+                                                                                    class="qodef-e-title entry-title">
+                                                                                    <a itemprop="url"
+                                                                                        class="qodef-e-title-link"
+                                                                                        href="portfolio-item/the-artist/index.html"
+                                                                                        target="_self">
+                                                                                        Kick My Ass
+                                                                                    </a>
+                                                                                </h4>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-bg-holder"><svg
+                                                                                class="qodef-svg--custom-portfolio-overlay qodef-e-bg"
+                                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 854.8 406"
+                                                                                preserveAspectRatio="none"
+                                                                                style="enable-background:new 0 0 854.8 406;"
+                                                                                xml:space="preserve">
+                                                                                <polygon
+                                                                                    vector-effect="non-scaling-stroke"
+                                                                                    fill="none" stroke-miterlimit="10"
+                                                                                    stroke-width="1.5"
+                                                                                    points="7,52.1 847.9,7.2 797.4,397.2 69.3,374.2 " />
+                                                                            </svg></div>
+                                                                    </div>
+                                                                    <a itemprop="url" class="qodef-e-post-link"
+                                                                        href="portfolio-item/the-artist/index.html"
+                                                                        target="_self"></a>
+                                                                </div>
+                                                            </article>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-6e810fd elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="6e810fd" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a0b6af"
-                                            data-id="4a0b6af" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-3cdbf44 elementor-widget elementor-widget-munich_core_section_title"
-                                                    data-id="3cdbf44" data-element_type="widget"
-                                                    data-widget_type="munich_core_section_title.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--svg-icon ">
-                                                            <h2 class="qodef-m-title" style="font-style: normal">
-                                                                Blog <span class="qodef--custom">Posts</span> </h2>
-                                                            <div class="qodef-m-icon-wrapper"
-                                                                style="margin: 10px 0px 13px -16px">
-                                                                <svg xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 148 42.5"
-                                                                    style="enable-background:new 0 0 148 42.5;"
-                                                                    xml:space="preserve" width="148">
-                                                                    <path d="M1.9,41.1c0,0,14.9-38.4,15.5-38.9C17.9,1.7,18.3,3,18.3,3s6.3,26.5,6.6,26.7c0.3,0.2,0-17.8,0.2-18.3
+                                </div>
+                            </section>
+
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-6e810fd elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                data-id="6e810fd" data-element_type="section" style="margin:45px 0;">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a0b6af"
+                                        data-id="4a0b6af" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-3cdbf44 elementor-widget elementor-widget-munich_core_section_title"
+                                                data-id="3cdbf44" data-element_type="widget"
+                                                data-widget_type="munich_core_section_title.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--svg-icon ">
+                                                        <h2 class="qodef-m-title" style="font-style: normal">
+                                                            Blog <span class="qodef--custom">Posts</span> </h2>
+                                                        <div class="qodef-m-icon-wrapper"
+                                                            style="margin: 10px 0px 13px -16px">
+                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 148 42.5"
+                                                                style="enable-background:new 0 0 148 42.5;"
+                                                                xml:space="preserve" width="148">
+                                                                <path d="M1.9,41.1c0,0,14.9-38.4,15.5-38.9C17.9,1.7,18.3,3,18.3,3s6.3,26.5,6.6,26.7c0.3,0.2,0-17.8,0.2-18.3
 	c0.2-0.5,1.2,3.4,1.7,5c0.5,1.6,3.8,11.6,4.1,12c0.3,0.4,1.1-3.1,1.2-3.7c0.1-0.6,0.6-4,0.7-4.1c0.1-0.1,1.6,2.6,2,3.1
 	c0.4,0.5,1,0.7,1.4,0.6c0.4-0.1,1.7-0.5,2.1-0.8c0.4-0.4,1.1-1.6,1.5-1.7c0.4,0,0.5,0.1,0.6,0.2c0.1,0.1,3.7,4.1,5,4.3
 	c1.3,0.2,9.5-0.1,10.4-0.2c0.9-0.1,3.8-0.3,5-1.5s1.7-2.6,1.7-4c0-1.4-0.4-2.7-0.6-2.8c-0.2-0.1-0.7-0.2-0.9,0
 	c-0.3,0.2-2.2,2.7-2.4,3.7c-0.3,1-0.2,2.5,0.2,3.1c0.4,0.7,1.4,0.9,2.4,0.9c1,0,5.2-2,5.7-2.5s2-1.7,2.7-1.9
 	c0.7-0.2,2.9,0.2,4.1,1.1s8.7,6,9.5,6.1c0.8,0.2,5.5,0.5,8.3,0.5c2.8,0,7.1-0.2,8.2-0.5s7.5-3.8,8.6-4.1c1.1-0.3,15.5-0.1,16.8,0
 	c1.3,0.1,8.2,0.5,9.6,0.2c1.4-0.3,5.2-1.8,6.7-2.6c1.5-0.8,2.7-1.9,3.8-2c1-0.1,1.4,0.5,1.8,1.1"></path>
-                                                                </svg>
-                                                            </div>
+                                                            </svg>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-38fb66a elementor-widget elementor-widget-munich_core_blog_list"
-                                                    data-id="38fb66a" data-element_type="widget"
-                                                    data-widget_type="munich_core_blog_list.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="qodef-shortcode qodef-m  qodef-blog qodef--list qodef-item-layout--standard qodef-grid qodef-layout--columns  qodef-gutter--large qodef-col-num--3 qodef-item-layout--standard qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--3 qodef-col-num--1366--3 qodef-col-num--1024--3 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1"
-                                                            data-options="{&quot;plugin&quot;:&quot;munich_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;3&quot;,&quot;columns_1366&quot;:&quot;3&quot;,&quot;columns_1024&quot;:&quot;3&quot;,&quot;columns_768&quot;:&quot;1&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;large&quot;,&quot;posts_per_page&quot;:&quot;3&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax_slug&quot;:&quot;animation&quot;,&quot;layout&quot;:&quot;standard&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;enable_title_modification&quot;:&quot;yes&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;enable_excerpt&quot;:&quot;no&quot;,&quot;enable_button&quot;:&quot;no&quot;,&quot;object_class_name&quot;:&quot;MunichCore_Blog_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;animation&quot;}]},&quot;space_value&quot;:25}">
-                                                            <div class="qodef-grid-inner clear">
-                                                                <article
-                                                                    class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3014 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media">
-                                                                            <div class="qodef-e-media-image">
+                                            </div>
+                                            <div class="elementor-element elementor-element-38fb66a elementor-widget elementor-widget-munich_core_blog_list"
+                                                data-id="38fb66a" data-element_type="widget"
+                                                data-widget_type="munich_core_blog_list.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="qodef-shortcode qodef-m  qodef-blog qodef--list qodef-item-layout--standard qodef-grid qodef-layout--columns  qodef-gutter--large qodef-col-num--3 qodef-item-layout--standard qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--3 qodef-col-num--1366--3 qodef-col-num--1024--3 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1"
+                                                        data-options="{&quot;plugin&quot;:&quot;munich_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;3&quot;,&quot;columns_1366&quot;:&quot;3&quot;,&quot;columns_1024&quot;:&quot;3&quot;,&quot;columns_768&quot;:&quot;1&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;large&quot;,&quot;posts_per_page&quot;:&quot;3&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax_slug&quot;:&quot;animation&quot;,&quot;layout&quot;:&quot;standard&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;enable_title_modification&quot;:&quot;yes&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;enable_excerpt&quot;:&quot;no&quot;,&quot;enable_button&quot;:&quot;no&quot;,&quot;object_class_name&quot;:&quot;MunichCore_Blog_List_Shortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;animation&quot;}]},&quot;space_value&quot;:25}">
+                                                        <div class="qodef-grid-inner clear">
+                                                            <article
+                                                                class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3014 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media">
+                                                                        <div class="qodef-e-media-image">
+                                                                            <a itemprop="url"
+                                                                                href="meet-young-and-talented-artists-with-us/index.html">
+                                                                                <img width="850" height="658"
+                                                                                    src="wp-content/uploads/2022/03/blog-single-img-5.jpg"
+                                                                                    class="attachment-full size-full"
+                                                                                    alt="c" loading="lazy"
+                                                                                    srcset="./wp-content/uploads/2022/03/blog-single-img-5.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-5-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-5-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-5-768x595.jpg 768w"
+                                                                                    sizes="(max-width: 850px) 100vw, 850px" />
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-top-holder">
+                                                                            <div class="qodef-e-info">
+                                                                                <a title="Title Text: "
+                                                                                    itemprop="dateCreated"
+                                                                                    href="2022/03/index.html"
+                                                                                    class="entry-date published updated">
+                                                                                    14/03/2022</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                                <span
+                                                                                    class="qodef-e-info-author-prefix">By</span>
+                                                                                <a itemprop="author"
+                                                                                    href="author/mark-hopkins/index.html"
+                                                                                    class="qodef-e-info-author">
+                                                                                    Mark Hopkins</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-text">
+                                                                            <h4 itemprop="name"
+                                                                                class="qodef-e-title entry-title">
                                                                                 <a itemprop="url"
+                                                                                    class="qodef-e-title-link"
                                                                                     href="meet-young-and-talented-artists-with-us/index.html">
-                                                                                    <img width="850" height="658"
-                                                                                        src="wp-content/uploads/2022/03/blog-single-img-5.jpg"
-                                                                                        class="attachment-full size-full"
-                                                                                        alt="c" loading="lazy"
-                                                                                        srcset="./wp-content/uploads/2022/03/blog-single-img-5.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-5-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-5-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-5-768x595.jpg 768w"
-                                                                                        sizes="(max-width: 850px) 100vw, 850px" />
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-top-holder">
-                                                                                <div class="qodef-e-info">
-                                                                                    <a title="Title Text: "
-                                                                                        itemprop="dateCreated"
-                                                                                        href="2022/03/index.html"
-                                                                                        class="entry-date published updated">
-                                                                                        14/03/2022</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                    <span
-                                                                                        class="qodef-e-info-author-prefix">By</span>
-                                                                                    <a itemprop="author"
-                                                                                        href="author/mark-hopkins/index.html"
-                                                                                        class="qodef-e-info-author">
-                                                                                        Mark Hopkins</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-text">
-                                                                                <h4 itemprop="name"
-                                                                                    class="qodef-e-title entry-title">
-                                                                                    <a itemprop="url"
-                                                                                        class="qodef-e-title-link"
-                                                                                        href="meet-young-and-talented-artists-with-us/index.html">
-                                                                                        Meet young and talented artists
-                                                                                        with us </a>
-                                                                                </h4>
-                                                                            </div>
+                                                                                    Meet young and talented artists
+                                                                                    with us </a>
+                                                                            </h4>
                                                                         </div>
                                                                     </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3183 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media">
-                                                                            <div class="qodef-e-media-image">
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3183 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media">
+                                                                        <div class="qodef-e-media-image">
+                                                                            <a itemprop="url"
+                                                                                href="we-are-in-love-with-what-we-do-and-enjoy-creating/index.html">
+                                                                                <img width="850" height="658"
+                                                                                    src="wp-content/uploads/2022/03/blog-single-img-6.jpg"
+                                                                                    class="attachment-full size-full"
+                                                                                    alt="c" loading="lazy"
+                                                                                    srcset="./wp-content/uploads/2022/03/blog-single-img-6.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-6-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-6-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-6-768x595.jpg 768w"
+                                                                                    sizes="(max-width: 850px) 100vw, 850px" />
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-top-holder">
+                                                                            <div class="qodef-e-info">
+                                                                                <a title="Title Text: "
+                                                                                    itemprop="dateCreated"
+                                                                                    href="2022/03/index.html"
+                                                                                    class="entry-date published updated">
+                                                                                    14/03/2022</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                                <span
+                                                                                    class="qodef-e-info-author-prefix">By</span>
+                                                                                <a itemprop="author"
+                                                                                    href="author/mark-hopkins/index.html"
+                                                                                    class="qodef-e-info-author">
+                                                                                    Mark Hopkins</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-text">
+                                                                            <h4 itemprop="name"
+                                                                                class="qodef-e-title entry-title">
                                                                                 <a itemprop="url"
+                                                                                    class="qodef-e-title-link"
                                                                                     href="we-are-in-love-with-what-we-do-and-enjoy-creating/index.html">
-                                                                                    <img width="850" height="658"
-                                                                                        src="wp-content/uploads/2022/03/blog-single-img-6.jpg"
-                                                                                        class="attachment-full size-full"
-                                                                                        alt="c" loading="lazy"
-                                                                                        srcset="./wp-content/uploads/2022/03/blog-single-img-6.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-6-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-6-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-6-768x595.jpg 768w"
-                                                                                        sizes="(max-width: 850px) 100vw, 850px" />
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-top-holder">
-                                                                                <div class="qodef-e-info">
-                                                                                    <a title="Title Text: "
-                                                                                        itemprop="dateCreated"
-                                                                                        href="2022/03/index.html"
-                                                                                        class="entry-date published updated">
-                                                                                        14/03/2022</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                    <span
-                                                                                        class="qodef-e-info-author-prefix">By</span>
-                                                                                    <a itemprop="author"
-                                                                                        href="author/mark-hopkins/index.html"
-                                                                                        class="qodef-e-info-author">
-                                                                                        Mark Hopkins</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-text">
-                                                                                <h4 itemprop="name"
-                                                                                    class="qodef-e-title entry-title">
-                                                                                    <a itemprop="url"
-                                                                                        class="qodef-e-title-link"
-                                                                                        href="we-are-in-love-with-what-we-do-and-enjoy-creating/index.html">
-                                                                                        We are in love with what we do
-                                                                                        and enjoy creating </a>
-                                                                                </h4>
-                                                                            </div>
+                                                                                    We are in love with what we do
+                                                                                    and enjoy creating </a>
+                                                                            </h4>
                                                                         </div>
                                                                     </div>
-                                                                </article>
-                                                                <article
-                                                                    class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3190 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-media">
-                                                                            <div class="qodef-e-media-image">
+                                                                </div>
+                                                            </article>
+                                                            <article
+                                                                class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-3190 post type-post status-publish format-standard has-post-thumbnail hentry category-animation category-design tag-aspect tag-black tag-color">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-media">
+                                                                        <div class="qodef-e-media-image">
+                                                                            <a itemprop="url"
+                                                                                href="process-of-creation-that-will-get-your-attention/index.html">
+                                                                                <img width="850" height="658"
+                                                                                    src="wp-content/uploads/2022/03/blog-single-img-7.jpg"
+                                                                                    class="attachment-full size-full"
+                                                                                    alt="x" loading="lazy"
+                                                                                    srcset="./wp-content/uploads/2022/03/blog-single-img-7.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-7-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-7-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-7-768x595.jpg 768w"
+                                                                                    sizes="(max-width: 850px) 100vw, 850px" />
+                                                                            </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="qodef-e-content">
+                                                                        <div class="qodef-e-top-holder">
+                                                                            <div class="qodef-e-info">
+                                                                                <a title="Title Text: "
+                                                                                    itemprop="dateCreated"
+                                                                                    href="2022/03/index.html"
+                                                                                    class="entry-date published updated">
+                                                                                    14/03/2022</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                                <span
+                                                                                    class="qodef-e-info-author-prefix">By</span>
+                                                                                <a itemprop="author"
+                                                                                    href="author/mark-hopkins/index.html"
+                                                                                    class="qodef-e-info-author">
+                                                                                    Mark Hopkins</a>
+                                                                                <div class="qodef-info-separator-end">
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="qodef-e-text">
+                                                                            <h4 itemprop="name"
+                                                                                class="qodef-e-title entry-title">
                                                                                 <a itemprop="url"
+                                                                                    class="qodef-e-title-link"
                                                                                     href="process-of-creation-that-will-get-your-attention/index.html">
-                                                                                    <img width="850" height="658"
-                                                                                        src="wp-content/uploads/2022/03/blog-single-img-7.jpg"
-                                                                                        class="attachment-full size-full"
-                                                                                        alt="x" loading="lazy"
-                                                                                        srcset="./wp-content/uploads/2022/03/blog-single-img-7.jpg 850w, ./wp-content/uploads/2022/03/blog-single-img-7-600x464.jpg 600w, ./wp-content/uploads/2022/03/blog-single-img-7-300x232.jpg 300w, ./wp-content/uploads/2022/03/blog-single-img-7-768x595.jpg 768w"
-                                                                                        sizes="(max-width: 850px) 100vw, 850px" />
-                                                                                </a>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="qodef-e-content">
-                                                                            <div class="qodef-e-top-holder">
-                                                                                <div class="qodef-e-info">
-                                                                                    <a title="Title Text: "
-                                                                                        itemprop="dateCreated"
-                                                                                        href="2022/03/index.html"
-                                                                                        class="entry-date published updated">
-                                                                                        14/03/2022</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                    <span
-                                                                                        class="qodef-e-info-author-prefix">By</span>
-                                                                                    <a itemprop="author"
-                                                                                        href="author/mark-hopkins/index.html"
-                                                                                        class="qodef-e-info-author">
-                                                                                        Mark Hopkins</a>
-                                                                                    <div
-                                                                                        class="qodef-info-separator-end">
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="qodef-e-text">
-                                                                                <h4 itemprop="name"
-                                                                                    class="qodef-e-title entry-title">
-                                                                                    <a itemprop="url"
-                                                                                        class="qodef-e-title-link"
-                                                                                        href="process-of-creation-that-will-get-your-attention/index.html">
-                                                                                        Process of creation that will
-                                                                                        get your attention </a>
-                                                                                </h4>
-                                                                            </div>
+                                                                                    Process of creation that will
+                                                                                    get your attention </a>
+                                                                            </h4>
                                                                         </div>
                                                                     </div>
-                                                                </article>
-                                                            </div>
+                                                                </div>
+                                                            </article>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
+                                </div>
+                            </section>
+                            <!-- <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-20c9eb6 elementor-section-full_width qodef-elementor-content-grid qodef-elementor-back-btn-skin-light elementor-section-height-default elementor-section-height-default"
                                     data-id="20c9eb6" data-element_type="section"
                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -11609,118 +11485,94 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-9585e7a elementor-section-full_width qodef-elementor-content-grid elementor-reverse-mobile_extra elementor-reverse-mobile elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="9585e7a" data-element_type="section"
-                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-df2333d"
-                                            data-id="df2333d" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-b9ee21e elementor-widget elementor-widget-munich_core_accordion"
-                                                    data-id="b9ee21e" data-element_type="widget"
-                                                    data-widget_type="munich_core_accordion.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-accordion clear qodef-behavior--accordion qodef-layout--simple">
-                                                            <h4 class="qodef-accordion-title">
-                                                                <span class="qodef-tab-title">designed with style</span>
-                                                                <span class="qodef-accordion-mark">
-                                                                    <span class="qodef-icon--plus">+</span>
-                                                                    <span class="qodef-icon--minus">-</span>
-                                                                </span>
-                                                            </h4>
-                                                            <div class="qodef-accordion-content">
-                                                                <div class="qodef-accordion-content-inner">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit. Donec turpis, malesuada non leo
-                                                                        a, vehicula ornare nibh. Eget bibendum nulla,
-                                                                        nec hendrerit magna. Nunc vitae sum inter.</p>
-                                                                </div>
-                                                            </div>
-                                                            <h4 class="qodef-accordion-title">
-                                                                <span class="qodef-tab-title">selected with care</span>
-                                                                <span class="qodef-accordion-mark">
-                                                                    <span class="qodef-icon--plus">+</span>
-                                                                    <span class="qodef-icon--minus">-</span>
-                                                                </span>
-                                                            </h4>
-                                                            <div class="qodef-accordion-content">
-                                                                <div class="qodef-accordion-content-inner">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit. Donec turpis, malesuada non leo
-                                                                        a, vehicula ornare nibh. Eget bibendum nulla,
-                                                                        nec hendrerit magna. Nunc vitae sum inter.</p>
-                                                                </div>
-                                                            </div>
-                                                            <h4 class="qodef-accordion-title">
-                                                                <span class="qodef-tab-title">groovy interface</span>
-                                                                <span class="qodef-accordion-mark">
-                                                                    <span class="qodef-icon--plus">+</span>
-                                                                    <span class="qodef-icon--minus">-</span>
-                                                                </span>
-                                                            </h4>
-                                                            <div class="qodef-accordion-content">
-                                                                <div class="qodef-accordion-content-inner">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit. Donec turpis, malesuada non leo
-                                                                        a, vehicula ornare nibh. Eget bibendum nulla,
-                                                                        nec hendrerit magna. Nunc vitae sum inter.</p>
-                                                                </div>
-                                                            </div>
-                                                            <h4 class="qodef-accordion-title">
-                                                                <span class="qodef-tab-title">lovely fonts</span>
-                                                                <span class="qodef-accordion-mark">
-                                                                    <span class="qodef-icon--plus">+</span>
-                                                                    <span class="qodef-icon--minus">-</span>
-                                                                </span>
-                                                            </h4>
-                                                            <div class="qodef-accordion-content">
-                                                                <div class="qodef-accordion-content-inner">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit. Donec turpis, malesuada non leo
-                                                                        a, vehicula ornare nibh. Eget bibendum nulla,
-                                                                        nec hendrerit magna. Nunc vitae sum inter.</p>
-                                                                </div>
-                                                            </div>
-                                                            <h4 class="qodef-accordion-title">
-                                                                <span class="qodef-tab-title">unique visuals</span>
-                                                                <span class="qodef-accordion-mark">
-                                                                    <span class="qodef-icon--plus">+</span>
-                                                                    <span class="qodef-icon--minus">-</span>
-                                                                </span>
-                                                            </h4>
-                                                            <div class="qodef-accordion-content">
-                                                                <div class="qodef-accordion-content-inner">
-                                                                    <p>Lorem ipsum dolor sit amet, consectetur
-                                                                        adipiscing elit. Donec turpis, malesuada non leo
-                                                                        a, vehicula ornare nibh. Eget bibendum nulla,
-                                                                        nec hendrerit magna. Nunc vitae sum inter.</p>
-                                                                </div>
+                                </section> -->
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-9585e7a elementor-section-full_width qodef-elementor-content-grid elementor-reverse-mobile_extra elementor-reverse-mobile elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                data-id="9585e7a" data-element_type="section"
+                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-df2333d"
+                                        data-id="df2333d" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-b9ee21e elementor-widget elementor-widget-munich_core_accordion"
+                                                data-id="b9ee21e" data-element_type="widget"
+                                                data-widget_type="munich_core_accordion.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-accordion clear qodef-behavior--accordion qodef-layout--simple">
+                                                        <h4 class="qodef-accordion-title">
+                                                            <span class="qodef-tab-title">designed with style</span>
+                                                            <span class="qodef-accordion-mark">
+                                                                <span class="qodef-icon--plus">+</span>
+                                                                <span class="qodef-icon--minus">-</span>
+                                                            </span>
+                                                        </h4>
+                                                        <div class="qodef-accordion-content">
+                                                            <div class="qodef-accordion-content-inner">
+                                                                <p>Lorem ipsum dolor sit amet, consectetur
+                                                                    adipiscing elit. Donec turpis, malesuada non leo
+                                                                    a, vehicula ornare nibh. Eget bibendum nulla,
+                                                                    nec hendrerit magna. Nunc vitae sum inter.</p>
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-213a6ab"
-                                            data-id="213a6ab" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-21dec4b elementor-widget-mobile_extra__width-initial elementor-widget-mobile__width-initial elementor-absolute elementor-widget elementor-widget-munich_core_single_image"
-                                                    data-id="21dec4b" data-element_type="widget"
-                                                    data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
-                                                    data-widget_type="munich_core_single_image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   ">
-                                                            <div class="qodef-m-image">
-                                                                <img width="645" height="829"
-                                                                    src="wp-content/uploads/2022/03/main-home-img-3.png"
-                                                                    class="attachment-full size-full" alt="c"
-                                                                    loading="lazy"
-                                                                    srcset="./wp-content/uploads/2022/03/main-home-img-3.png 645w, ./wp-content/uploads/2022/03/main-home-img-3-600x771.png 600w, ./wp-content/uploads/2022/03/main-home-img-3-233x300.png 233w"
-                                                                    sizes="(max-width: 645px) 100vw, 645px" />
+                                                        <h4 class="qodef-accordion-title">
+                                                            <span class="qodef-tab-title">selected with care</span>
+                                                            <span class="qodef-accordion-mark">
+                                                                <span class="qodef-icon--plus">+</span>
+                                                                <span class="qodef-icon--minus">-</span>
+                                                            </span>
+                                                        </h4>
+                                                        <div class="qodef-accordion-content">
+                                                            <div class="qodef-accordion-content-inner">
+                                                                <p>Lorem ipsum dolor sit amet, consectetur
+                                                                    adipiscing elit. Donec turpis, malesuada non leo
+                                                                    a, vehicula ornare nibh. Eget bibendum nulla,
+                                                                    nec hendrerit magna. Nunc vitae sum inter.</p>
+                                                            </div>
+                                                        </div>
+                                                        <h4 class="qodef-accordion-title">
+                                                            <span class="qodef-tab-title">groovy interface</span>
+                                                            <span class="qodef-accordion-mark">
+                                                                <span class="qodef-icon--plus">+</span>
+                                                                <span class="qodef-icon--minus">-</span>
+                                                            </span>
+                                                        </h4>
+                                                        <div class="qodef-accordion-content">
+                                                            <div class="qodef-accordion-content-inner">
+                                                                <p>Lorem ipsum dolor sit amet, consectetur
+                                                                    adipiscing elit. Donec turpis, malesuada non leo
+                                                                    a, vehicula ornare nibh. Eget bibendum nulla,
+                                                                    nec hendrerit magna. Nunc vitae sum inter.</p>
+                                                            </div>
+                                                        </div>
+                                                        <h4 class="qodef-accordion-title">
+                                                            <span class="qodef-tab-title">lovely fonts</span>
+                                                            <span class="qodef-accordion-mark">
+                                                                <span class="qodef-icon--plus">+</span>
+                                                                <span class="qodef-icon--minus">-</span>
+                                                            </span>
+                                                        </h4>
+                                                        <div class="qodef-accordion-content">
+                                                            <div class="qodef-accordion-content-inner">
+                                                                <p>Lorem ipsum dolor sit amet, consectetur
+                                                                    adipiscing elit. Donec turpis, malesuada non leo
+                                                                    a, vehicula ornare nibh. Eget bibendum nulla,
+                                                                    nec hendrerit magna. Nunc vitae sum inter.</p>
+                                                            </div>
+                                                        </div>
+                                                        <h4 class="qodef-accordion-title">
+                                                            <span class="qodef-tab-title">unique visuals</span>
+                                                            <span class="qodef-accordion-mark">
+                                                                <span class="qodef-icon--plus">+</span>
+                                                                <span class="qodef-icon--minus">-</span>
+                                                            </span>
+                                                        </h4>
+                                                        <div class="qodef-accordion-content">
+                                                            <div class="qodef-accordion-content-inner">
+                                                                <p>Lorem ipsum dolor sit amet, consectetur
+                                                                    adipiscing elit. Donec turpis, malesuada non leo
+                                                                    a, vehicula ornare nibh. Eget bibendum nulla,
+                                                                    nec hendrerit magna. Nunc vitae sum inter.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -11728,8 +11580,31 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-213a6ab"
+                                        data-id="213a6ab" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-21dec4b elementor-widget-mobile_extra__width-initial elementor-widget-mobile__width-initial elementor-absolute elementor-widget elementor-widget-munich_core_single_image"
+                                                data-id="21dec4b" data-element_type="widget"
+                                                data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
+                                                data-widget_type="munich_core_single_image.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   ">
+                                                        <div class="qodef-m-image">
+                                                            <img width="645" height="829"
+                                                                src="wp-content/uploads/2022/03/main-home-img-3.png"
+                                                                class="attachment-full size-full" alt="c" loading="lazy"
+                                                                srcset="./wp-content/uploads/2022/03/main-home-img-3.png 645w, ./wp-content/uploads/2022/03/main-home-img-3-600x771.png 600w, ./wp-content/uploads/2022/03/main-home-img-3-233x300.png 233w"
+                                                                sizes="(max-width: 645px) 100vw, 645px" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <!-- <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-2f51632 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
                                     data-id="2f51632" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-no">
@@ -12209,87 +12084,86 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-5caa84b elementor-section-full_width qodef-elementor-content-grid qodef-extended-grid qodef-extended-grid--right qodef-extended-grid-disabled--1024 qodef-elementor-back-btn-skin-light elementor-section-height-default elementor-section-height-default"
-                                    data-id="5caa84b" data-element_type="section"
-                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-30e817b"
-                                            data-id="30e817b" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-9e7728e elementor-widget elementor-widget-munich_core_section_title"
-                                                    data-id="9e7728e" data-element_type="widget"
-                                                    data-widget_type="munich_core_section_title.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
-                                                            <h2 class="qodef-m-title"
-                                                                style="color: #FFFFFF;font-style: normal">
-                                                                CREATIVE <span class="qodef--custom">AGENCY</span> </h2>
-                                                            <div class="qodef-m-icon-wrapper">
-                                                                <span
-                                                                    class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
-                                                                </span>
-                                                            </div>
-                                                            <p class="qodef-m-text"
-                                                                style="margin-top: 0px;color: #FFFFFF">Percipit
-                                                                elaboraret ei has, vix suas ocurreret pertinacia et. Mei
-                                                                a quo aggam epicuri percipit. Equidem praesent
-                                                                intellegebat ei quo, pros nonumy atmorum inimicus. Mel
-                                                                suas aeque eloquentiam cu choro.</p>
+                                </section> -->
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-5caa84b elementor-section-full_width qodef-elementor-content-grid qodef-extended-grid qodef-extended-grid--right qodef-extended-grid-disabled--1024 qodef-elementor-back-btn-skin-light elementor-section-height-default elementor-section-height-default"
+                                data-id="5caa84b" data-element_type="section"
+                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-30e817b"
+                                        data-id="30e817b" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-9e7728e elementor-widget elementor-widget-munich_core_section_title"
+                                                data-id="9e7728e" data-element_type="widget"
+                                                data-widget_type="munich_core_section_title.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
+                                                        <h2 class="qodef-m-title"
+                                                            style="color: #FFFFFF;font-style: normal">
+                                                            CREATIVE <span class="qodef--custom">AGENCY</span> </h2>
+                                                        <div class="qodef-m-icon-wrapper">
+                                                            <span
+                                                                class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
+                                                            </span>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-1f62306 elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="1f62306" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
-                                                            href="get-in-touch/index.html" target="_self"
-                                                            data-hover-border-color="#FFFFFF"
-                                                            style="color: #FFFFFF;--qodef-color: #FFFFFF;--qodef-border-color: #FFFFFF">
-                                                            <span class="qodef-m-text">View More</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-1"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 206.55 79.66"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-16"
-                                                                        d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
+                                                        <p class="qodef-m-text" style="margin-top: 0px;color: #FFFFFF">
+                                                            Percipit
+                                                            elaboraret ei has, vix suas ocurreret pertinacia et. Mei
+                                                            a quo aggam epicuri percipit. Equidem praesent
+                                                            intellegebat ei quo, pros nonumy atmorum inimicus. Mel
+                                                            suas aeque eloquentiam cu choro.</p>
                                                     </div>
                                                 </div>
                                             </div>
+                                            <!-- <div class="elementor-element elementor-element-1f62306 elementor-widget elementor-widget-munich_core_button"
+                                                data-id="1f62306" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
+                                                        href="get-in-touch/index.html" target="_self"
+                                                        data-hover-border-color="#FFFFFF"
+                                                        style="color: #FFFFFF;--qodef-color: #FFFFFF;--qodef-border-color: #FFFFFF">
+                                                        <span class="qodef-m-text">View More</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-1"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 206.55 79.66"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-16"
+                                                                    d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
+                                                </div>
+                                            </div> -->
                                         </div>
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8ef7bbc"
-                                            data-id="8ef7bbc" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-bb717a6 elementor-widget-tablet__width-auto elementor-widget elementor-widget-munich_core_single_image"
-                                                    data-id="bb717a6" data-element_type="widget"
-                                                    data-widget_type="munich_core_single_image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   ">
-                                                            <div class="qodef-m-image">
-                                                                <img width="537" height="464"
-                                                                    src="wp-content/uploads/2022/03/main-home-img-4.png"
-                                                                    class="attachment-full size-full" alt="d"
-                                                                    loading="lazy"
-                                                                    srcset="./wp-content/uploads/2022/03/main-home-img-4.png 537w, ./wp-content/uploads/2022/03/main-home-img-4-300x259.png 300w"
-                                                                    sizes="(max-width: 537px) 100vw, 537px" />
-                                                            </div>
+                                    </div>
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8ef7bbc"
+                                        data-id="8ef7bbc" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-bb717a6 elementor-widget-tablet__width-auto elementor-widget elementor-widget-munich_core_single_image"
+                                                data-id="bb717a6" data-element_type="widget"
+                                                data-widget_type="munich_core_single_image.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   ">
+                                                        <div class="qodef-m-image">
+                                                            <img width="537" height="464"
+                                                                src="wp-content/uploads/2022/03/main-home-img-4.png"
+                                                                class="attachment-full size-full" alt="d" loading="lazy"
+                                                                srcset="./wp-content/uploads/2022/03/main-home-img-4.png 537w, ./wp-content/uploads/2022/03/main-home-img-4-300x259.png 300w"
+                                                                sizes="(max-width: 537px) 100vw, 537px" />
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
+                                </div>
+                            </section>
+                            <!-- <section
                                     class="elementor-section elementor-top-section elementor-element elementor-element-812bc97 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
                                     data-id="812bc97" data-element_type="section"
                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -12961,191 +12835,470 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-aa37d6d elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="aa37d6d" data-element_type="section"
-                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d523185"
-                                            data-id="d523185" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-5c0b9c3 elementor-widget elementor-widget-munich_core_numbered_text"
-                                                    data-id="5c0b9c3" data-element_type="widget"
-                                                    data-widget_type="munich_core_numbered_text.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
-                                                            <div class="qodef-m-content">
-                                                                <h4 class="qodef-m-title">
-                                                                    <span class="qodef-m-title-inner">
-                                                                        <span class="qodef-m-number">
-                                                                            <span class="qodef-m-number-text">1</span>
-                                                                        </span>
-                                                                        <span class="qodef-m-title-text">
-                                                                            CONCEPT CREATION AND STRATEGY PLANNING
-                                                                        </span>
+                                </section> -->
+                            <!-- <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-aa37d6d elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                data-id="aa37d6d" data-element_type="section"
+                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d523185"
+                                        data-id="d523185" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-5c0b9c3 elementor-widget elementor-widget-munich_core_numbered_text"
+                                                data-id="5c0b9c3" data-element_type="widget"
+                                                data-widget_type="munich_core_numbered_text.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
+                                                        <div class="qodef-m-content">
+                                                            <h4 class="qodef-m-title">
+                                                                <span class="qodef-m-title-inner">
+                                                                    <span class="qodef-m-number">
+                                                                        <span class="qodef-m-number-text">1</span>
                                                                     </span>
-                                                                </h4>
-                                                                <p class="qodef-m-text" style="margin-top: 13px">Lorem
-                                                                    ipsum dolor sit amet ad consectetuer adipiscing
-                                                                    elit, sed diam nonummy nibh eui smod tincidunt ut
-                                                                    laoreet dolore magna.
-                                                                </p>
-                                                            </div>
+                                                                    <span class="qodef-m-title-text">
+                                                                        CONCEPT CREATION AND STRATEGY PLANNING
+                                                                    </span>
+                                                                </span>
+                                                            </h4>
+                                                            <p class="qodef-m-text" style="margin-top: 13px">Lorem
+                                                                ipsum dolor sit amet ad consectetuer adipiscing
+                                                                elit, sed diam nonummy nibh eui smod tincidunt ut
+                                                                laoreet dolore magna.
+                                                            </p>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-9195af6 elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="9195af6" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
-                                                            href="what-we-do/index.html" target="_self"
-                                                            data-hover-color="#FFFFFF"
-                                                            data-hover-background-color="#000000"
-                                                            style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
-                                                            <span class="qodef-m-text">View More</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-2"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="14 2 176.17 65.11"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-215"
-                                                                        d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-02930cf"
-                                            data-id="02930cf" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-f47ce02 elementor-widget elementor-widget-munich_core_numbered_text"
-                                                    data-id="f47ce02" data-element_type="widget"
-                                                    data-widget_type="munich_core_numbered_text.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
-                                                            <div class="qodef-m-content">
-                                                                <h4 class="qodef-m-title">
-                                                                    <span class="qodef-m-title-inner">
-                                                                        <span class="qodef-m-number">
-                                                                            <span class="qodef-m-number-text">2</span>
-                                                                        </span>
-                                                                        <span class="qodef-m-title-text">
-                                                                            DESIGN REALIZATION AND BRAND CREATION
-                                                                        </span>
-                                                                    </span>
-                                                                </h4>
-                                                                <p class="qodef-m-text" style="margin-top: 13px">Lorem
-                                                                    ipsum dolor sit amet ad consectetuer adipiscing
-                                                                    elit, sed diam nonummy nibh eui smod tincidunt ut
-                                                                    laoreet dolore magna.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-e2efa9d elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="e2efa9d" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
-                                                            href="what-we-do/index.html" target="_self"
-                                                            data-hover-color="#FFFFFF"
-                                                            data-hover-background-color="#000000"
-                                                            style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
-                                                            <span class="qodef-m-text">View More</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-2"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="14 2 176.17 65.11"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-216"
-                                                                        d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
-                                                    </div>
+                                            <div class="elementor-element elementor-element-9195af6 elementor-widget elementor-widget-munich_core_button"
+                                                data-id="9195af6" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
+                                                        href="what-we-do/index.html" target="_self"
+                                                        data-hover-color="#FFFFFF" data-hover-background-color="#000000"
+                                                        style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
+                                                        <span class="qodef-m-text">View More</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-2"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="14 2 176.17 65.11"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-215"
+                                                                    d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-82526ea"
-                                            data-id="82526ea" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-bb7886a elementor-widget elementor-widget-munich_core_numbered_text"
-                                                    data-id="bb7886a" data-element_type="widget"
-                                                    data-widget_type="munich_core_numbered_text.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div
-                                                            class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
-                                                            <div class="qodef-m-content">
-                                                                <h4 class="qodef-m-title">
-                                                                    <span class="qodef-m-title-inner">
-                                                                        <span class="qodef-m-number">
-                                                                            <span class="qodef-m-number-text">3</span>
-                                                                        </span>
-                                                                        <span class="qodef-m-title-text">
-                                                                            MARKETING IDEAS &amp; STRATEGY APPLICATION
-                                                                        </span>
+                                    </div>
+                                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-02930cf"
+                                        data-id="02930cf" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-f47ce02 elementor-widget elementor-widget-munich_core_numbered_text"
+                                                data-id="f47ce02" data-element_type="widget"
+                                                data-widget_type="munich_core_numbered_text.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
+                                                        <div class="qodef-m-content">
+                                                            <h4 class="qodef-m-title">
+                                                                <span class="qodef-m-title-inner">
+                                                                    <span class="qodef-m-number">
+                                                                        <span class="qodef-m-number-text">2</span>
                                                                     </span>
-                                                                </h4>
-                                                                <p class="qodef-m-text" style="margin-top: 13px">Lorem
-                                                                    ipsum dolor sit amet ad consectetuer adipiscing
-                                                                    elit, sed diam nonummy nibh eui smod tincidunt ut
-                                                                    laoreet dolore magna.
-                                                                </p>
+                                                                    <span class="qodef-m-title-text">
+                                                                        DESIGN REALIZATION AND BRAND CREATION
+                                                                    </span>
+                                                                </span>
+                                                            </h4>
+                                                            <p class="qodef-m-text" style="margin-top: 13px">Lorem
+                                                                ipsum dolor sit amet ad consectetuer adipiscing
+                                                                elit, sed diam nonummy nibh eui smod tincidunt ut
+                                                                laoreet dolore magna.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-e2efa9d elementor-widget elementor-widget-munich_core_button"
+                                                data-id="e2efa9d" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
+                                                        href="what-we-do/index.html" target="_self"
+                                                        data-hover-color="#FFFFFF" data-hover-background-color="#000000"
+                                                        style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
+                                                        <span class="qodef-m-text">View More</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-2"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="14 2 176.17 65.11"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-216"
+                                                                    d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-82526ea"
+                                        data-id="82526ea" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-bb7886a elementor-widget elementor-widget-munich_core_numbered_text"
+                                                data-id="bb7886a" data-element_type="widget"
+                                                data-widget_type="munich_core_numbered_text.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-numbered-text qodef-layout--before-title ">
+                                                        <div class="qodef-m-content">
+                                                            <h4 class="qodef-m-title">
+                                                                <span class="qodef-m-title-inner">
+                                                                    <span class="qodef-m-number">
+                                                                        <span class="qodef-m-number-text">3</span>
+                                                                    </span>
+                                                                    <span class="qodef-m-title-text">
+                                                                        MARKETING IDEAS &amp; STRATEGY APPLICATION
+                                                                    </span>
+                                                                </span>
+                                                            </h4>
+                                                            <p class="qodef-m-text" style="margin-top: 13px">Lorem
+                                                                ipsum dolor sit amet ad consectetuer adipiscing
+                                                                elit, sed diam nonummy nibh eui smod tincidunt ut
+                                                                laoreet dolore magna.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-65815f6 elementor-widget elementor-widget-munich_core_button"
+                                                data-id="65815f6" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
+                                                        href="what-we-do/index.html" target="_self"
+                                                        data-hover-color="#FFFFFF" data-hover-background-color="#000000"
+                                                        style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
+                                                        <span class="qodef-m-text">View More</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-2"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="14 2 176.17 65.11"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-217"
+                                                                    d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section> -->
+                            <!-- <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-e965113 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                data-id="e965113" data-element_type="section">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cfda0c0"
+                                        data-id="cfda0c0" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-abcc399 elementor-widget elementor-widget-munich_core_section_title"
+                                                data-id="abcc399" data-element_type="widget"
+                                                data-widget_type="munich_core_section_title.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center   qodef--icon-pack ">
+                                                        <h2 class="qodef-m-title" style="font-style: normal">
+                                                            show the world your unique &amp; creative side </h2>
+                                                        <div class="qodef-m-icon-wrapper">
+                                                            <span
+                                                                class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-db85bfa elementor-widget__width-auto elementor-widget elementor-widget-munich_core_button"
+                                                data-id="db85bfa" data-element_type="widget"
+                                                data-widget_type="munich_core_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
+                                                        href="about-us/index.html" target="_self">
+                                                        <span class="qodef-m-text">View more</span>
+                                                        <span class="qodef-m-bg">
+                                                            <svg class="qodef-svg--custom-shape-1"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 206.55 79.66"
+                                                                preserveAspectRatio="none" xml:space="preserve">
+                                                                <path id="qodef-svg--custom-shape-118"
+                                                                    d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
+                                                                </path>
+                                                            </svg> </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section> -->
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-0e0c723 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
+                                data-id="0e0c723" data-element_type="section"
+                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"
+                                style="margin:45px 0;">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dcccc68"
+                                        data-id="dcccc68" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <section
+                                                class="elementor-section elementor-inner-section elementor-element elementor-element-710042d elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
+                                                data-id="710042d" data-element_type="section">
+                                                <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4701acb"
+                                                        data-id="4701acb" data-element_type="column">
+                                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                                            <div class="elementor-element elementor-element-a4cd5bd elementor-widget elementor-widget-munich_core_section_title"
+                                                                data-id="a4cd5bd" data-element_type="widget"
+                                                                data-widget_type="munich_core_section_title.default">
+                                                                <div class="elementor-widget-container">
+                                                                    <div
+                                                                        class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--svg-icon ">
+                                                                        <h2 class="qodef-m-title"
+                                                                            style="font-style: normal">
+                                                                            our <span
+                                                                                class="qodef--custom">devoted</span>
+                                                                            clients </h2>
+                                                                        <div class="qodef-m-icon-wrapper"
+                                                                            style="margin: 6px 0px 0px -16px">
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                x="0px" y="0px" viewBox="0 0 148 42.5"
+                                                                                style="enable-background:new 0 0 148 42.5;"
+                                                                                xml:space="preserve" width="148">
+                                                                                <path d="M1.9,41.1c0,0,14.9-38.4,15.5-38.9C17.9,1.7,18.3,3,18.3,3s6.3,26.5,6.6,26.7c0.3,0.2,0-17.8,0.2-18.3
+	c0.2-0.5,1.2,3.4,1.7,5c0.5,1.6,3.8,11.6,4.1,12c0.3,0.4,1.1-3.1,1.2-3.7c0.1-0.6,0.6-4,0.7-4.1c0.1-0.1,1.6,2.6,2,3.1
+	c0.4,0.5,1,0.7,1.4,0.6c0.4-0.1,1.7-0.5,2.1-0.8c0.4-0.4,1.1-1.6,1.5-1.7c0.4,0,0.5,0.1,0.6,0.2c0.1,0.1,3.7,4.1,5,4.3
+	c1.3,0.2,9.5-0.1,10.4-0.2c0.9-0.1,3.8-0.3,5-1.5s1.7-2.6,1.7-4c0-1.4-0.4-2.7-0.6-2.8c-0.2-0.1-0.7-0.2-0.9,0
+	c-0.3,0.2-2.2,2.7-2.4,3.7c-0.3,1-0.2,2.5,0.2,3.1c0.4,0.7,1.4,0.9,2.4,0.9c1,0,5.2-2,5.7-2.5s2-1.7,2.7-1.9
+	c0.7-0.2,2.9,0.2,4.1,1.1s8.7,6,9.5,6.1c0.8,0.2,5.5,0.5,8.3,0.5c2.8,0,7.1-0.2,8.2-0.5s7.5-3.8,8.6-4.1c1.1-0.3,15.5-0.1,16.8,0
+	c1.3,0.1,8.2,0.5,9.6,0.2c1.4-0.3,5.2-1.8,6.7-2.6c1.5-0.8,2.7-1.9,3.8-2c1-0.1,1.4,0.5,1.8,1.1"></path>
+                                                                            </svg>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-65815f6 elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="65815f6" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled   qodef-html--link"
-                                                            href="what-we-do/index.html" target="_self"
-                                                            data-hover-color="#FFFFFF"
-                                                            data-hover-background-color="#000000"
-                                                            style="color: #000000;--qodef-color: #000000;--qodef-background-color: #FFFFFF00">
-                                                            <span class="qodef-m-text">View More</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-2"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="14 2 176.17 65.11"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-217"
-                                                                        d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
+                                            </section>
+                                            <section
+                                                class="elementor-section elementor-inner-section elementor-element elementor-element-f09fa71 elementor-section-full_width qodef-frame-svg-disable-below--680 elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
+                                                data-id="f09fa71" data-element_type="section"
+                                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a5cc5e1"
+                                                        data-id="a5cc5e1" data-element_type="column">
+                                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                                            <div class="elementor-element elementor-element-63771a0 elementor-widget elementor-widget-munich_core_clients_list"
+                                                                data-id="63771a0" data-element_type="widget"
+                                                                data-widget_type="munich_core_clients_list.default">
+                                                                <div class="elementor-widget-container">
+                                                                    <div
+                                                                        class="qodef-shortcode qodef-m  qodef-clients-list qodef-grid qodef-layout--columns  qodef-gutter--huge qodef-col-num--4 qodef-item-layout--image-only qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--4 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1 qodef-hover-animation--move">
+                                                                        <div class="qodef-grid-inner clear">
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-1.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-2.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-3.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-4.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-5.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-6.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-7.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                            <span class="qodef-e qodef-grid-item ">
+                                                                                <span class="qodef-e-inner">
+                                                                                    <span class="qodef-e-image">
+                                                                                        <a itemprop="url" href="#"
+                                                                                            target="_blank">
+                                                                                            <span class="qodef-e-logo">
+                                                                                                <img width="170"
+                                                                                                    height="115"
+                                                                                                    src="wp-content/uploads/2022/03/client-8.png"
+                                                                                                    class="attachment-full size-full"
+                                                                                                    alt="e"
+                                                                                                    loading="lazy" />
+                                                                                            </span>
+                                                                                        </a>
+                                                                                    </span>
+                                                                                </span>
+                                                                            </span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section
+                                class="elementor-section elementor-top-section elementor-element elementor-element-30f2de5 elementor-section-full_width elementor-reverse-mobile_extra elementor-reverse-mobile elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
+                                data-id="30f2de5" data-element_type="section">
+                                <div class="elementor-container elementor-column-gap-no">
+                                    <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f23aa9"
+                                        data-id="6f23aa9" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-f777b4d elementor-widget__width-auto elementor-widget elementor-widget-munich_core_single_image"
+                                                data-id="f777b4d" data-element_type="widget"
+                                                data-widget_type="munich_core_single_image.default">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   qodef--disabled-tilt">
+                                                        <div class="qodef-m-image">
+                                                            <img width="469" height="384"
+                                                                src="wp-content/uploads/2022/03/main-home-img-5.png"
+                                                                class="attachment-full size-full" alt="c" loading="lazy"
+                                                                srcset="./wp-content/uploads/2022/03/main-home-img-5.png 469w, ./wp-content/uploads/2022/03/main-home-img-5-300x246.png 300w"
+                                                                sizes="(max-width: 469px) 100vw, 469px" />
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-e965113 elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                    data-id="e965113" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cfda0c0"
-                                            data-id="cfda0c0" data-element_type="column">
+                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8f8de78"
+                                            data-id="8f8de78" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-abcc399 elementor-widget elementor-widget-munich_core_section_title"
-                                                    data-id="abcc399" data-element_type="widget"
+                                                <div class="elementor-element elementor-element-fa4c078 elementor-widget elementor-widget-munich_core_section_title"
+                                                    data-id="fa4c078" data-element_type="widget"
                                                     data-widget_type="munich_core_section_title.default">
                                                     <div class="elementor-widget-container">
                                                         <div
-                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center   qodef--icon-pack ">
+                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--icon-pack ">
                                                             <h2 class="qodef-m-title" style="font-style: normal">
-                                                                show the world your unique &amp; creative side </h2>
+                                                                our newsletter </h2>
                                                             <div class="qodef-m-icon-wrapper">
                                                                 <span
                                                                     class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
@@ -13154,451 +13307,256 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-db85bfa elementor-widget__width-auto elementor-widget elementor-widget-munich_core_button"
-                                                    data-id="db85bfa" data-element_type="widget"
-                                                    data-widget_type="munich_core_button.default">
+                                                <div class="elementor-element elementor-element-a8be17d elementor-widget__width-initial elementor-widget-mobile_extra__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-wp-widget-munich_core_contact_form_7"
+                                                    data-id="a8be17d" data-element_type="widget"
+                                                    data-widget_type="wp-widget-munich_core_contact_form_7.default">
                                                     <div class="elementor-widget-container">
-                                                        <a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled qodef-type--custom  qodef-html--link"
-                                                            href="about-us/index.html" target="_self">
-                                                            <span class="qodef-m-text">View more</span>
-                                                            <span class="qodef-m-bg">
-                                                                <svg class="qodef-svg--custom-shape-1"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 206.55 79.66"
-                                                                    preserveAspectRatio="none" xml:space="preserve">
-                                                                    <path id="qodef-svg--custom-shape-118"
-                                                                        d="m12.864 68.325-.234.002-4.491.011-2.476-.048c-.011.021-.123.791 1.198-5.801l.058-.368.791-4.296.539-3.208.045-.25 1.256-6.528 5.58-31.705 153.965 1.936 4.302-10.886 2.995 6.226 9.908-8.948 1.267 11.064 13.457-5.048-14.327 15.425 6.484 9.953-5.862-2.542 7.659 35.341-178.419-.326-3.695-.004Z">
-                                                                    </path>
-                                                                </svg> </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-0e0c723 elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
-                                    data-id="0e0c723" data-element_type="section"
-                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dcccc68"
-                                            data-id="dcccc68" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <section
-                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-710042d elementor-section-full_width qodef-elementor-content-grid elementor-section-height-default elementor-section-height-default qodef-elementor-back-btn-skin-default"
-                                                    data-id="710042d" data-element_type="section">
-                                                    <div class="elementor-container elementor-column-gap-no">
-                                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4701acb"
-                                                            data-id="4701acb" data-element_type="column">
-                                                            <div
-                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                <div class="elementor-element elementor-element-a4cd5bd elementor-widget elementor-widget-munich_core_section_title"
-                                                                    data-id="a4cd5bd" data-element_type="widget"
-                                                                    data-widget_type="munich_core_section_title.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div
-                                                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left   qodef--svg-icon ">
-                                                                            <h2 class="qodef-m-title"
-                                                                                style="font-style: normal">
-                                                                                our <span
-                                                                                    class="qodef--custom">devoted</span>
-                                                                                clients </h2>
-                                                                            <div class="qodef-m-icon-wrapper"
-                                                                                style="margin: 6px 0px 0px -16px">
-                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                        <div class="qodef-contact-form-7">
+                                                            <div role="form" class="wpcf7" id="wpcf7-f15-p16-o1"
+                                                                lang="en-US" dir="ltr">
+                                                                <div class="screen-reader-response">
+                                                                    <p role="status" aria-live="polite"
+                                                                        aria-atomic="true">
+                                                                    </p>
+                                                                    <ul></ul>
+                                                                </div>
+                                                                <form action="./#wpcf7-f15-p16-o1" method="post"
+                                                                    class="wpcf7-form init demo" novalidate="novalidate"
+                                                                    data-status="init">
+                                                                    <div style="display: none;">
+                                                                        <input type="hidden" name="_wpcf7" value="15" />
+                                                                        <input type="hidden" name="_wpcf7_version"
+                                                                            value="5.6.4" />
+                                                                        <input type="hidden" name="_wpcf7_locale"
+                                                                            value="en_US" />
+                                                                        <input type="hidden" name="_wpcf7_unit_tag"
+                                                                            value="wpcf7-f15-p16-o1" />
+                                                                        <input type="hidden"
+                                                                            name="_wpcf7_container_post" value="16" />
+                                                                        <input type="hidden"
+                                                                            name="_wpcf7_posted_data_hash" value="" />
+                                                                    </div>
+                                                                    <div class="qodef-subscribe-form">
+                                                                        <div class="qodef-subscribe-form-inner">
+                                                                            <span class="wpcf7-form-control-wrap"
+                                                                                data-name="your-email"><input
+                                                                                    type="email" name="your-email"
+                                                                                    value="" size="40"
+                                                                                    class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
+                                                                                    aria-required="true"
+                                                                                    aria-invalid="false"
+                                                                                    placeholder="Type your email here*" /></span>
+                                                                            <button type="submit"
+                                                                                class="qodef--button-search-inside"><svg
+                                                                                    class="qodef-svg--search"
+                                                                                    xmlns="http://www.w3.org/2000/svg"
+                                                                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                                                    width="24px" height="24px" x="0px"
+                                                                                    y="0px" viewBox="0 0 32.2 32.2"
+                                                                                    style="enable-background:new 0 0 32.2 32.2;"
+                                                                                    xml:space="preserve">
+                                                                                    <g>
+                                                                                        <path
+                                                                                            d="M19,0C11.8,0,6,5.8,6,13c0,3.1,1.1,5.9,2.9,8.2l-8.6,8.6c-0.5,0.5-0.5,1.4,0,2s1.4,0.5,2,0l8.6-8.6 c2.2,1.8,5.1,2.9,8.2,2.9c7.2,0,13-5.8,13-13S26.2,0,19,0z M19,24c-6.1,0-11-4.9-11-11S12.9,2,19,2s11,4.9,11,11S25.1,24,19,24z">
+                                                                                        </path>
+                                                                                    </g>
+                                                                                </svg></button>
+                                                                        </div>
+                                                                        <button name="submit" type="submit"
+                                                                            class="qodef-submit-holder qodef-button qodef-layout--outlined  qodef-size--medium"
+                                                                            value="Submit">
+                                                                            <span class="qodef-m-text">Sign
+                                                                                Up</span><span class="qodef-m-bg"><svg
+                                                                                    class="qodef-svg--custom-shape-2"
+                                                                                    xmlns="http://www.w3.org/2000/svg"
                                                                                     xmlns:xlink="http://www.w3.org/1999/xlink"
                                                                                     x="0px" y="0px"
-                                                                                    viewBox="0 0 148 42.5"
-                                                                                    style="enable-background:new 0 0 148 42.5;"
-                                                                                    xml:space="preserve" width="148">
-                                                                                    <path d="M1.9,41.1c0,0,14.9-38.4,15.5-38.9C17.9,1.7,18.3,3,18.3,3s6.3,26.5,6.6,26.7c0.3,0.2,0-17.8,0.2-18.3
-	c0.2-0.5,1.2,3.4,1.7,5c0.5,1.6,3.8,11.6,4.1,12c0.3,0.4,1.1-3.1,1.2-3.7c0.1-0.6,0.6-4,0.7-4.1c0.1-0.1,1.6,2.6,2,3.1
-	c0.4,0.5,1,0.7,1.4,0.6c0.4-0.1,1.7-0.5,2.1-0.8c0.4-0.4,1.1-1.6,1.5-1.7c0.4,0,0.5,0.1,0.6,0.2c0.1,0.1,3.7,4.1,5,4.3
-	c1.3,0.2,9.5-0.1,10.4-0.2c0.9-0.1,3.8-0.3,5-1.5s1.7-2.6,1.7-4c0-1.4-0.4-2.7-0.6-2.8c-0.2-0.1-0.7-0.2-0.9,0
-	c-0.3,0.2-2.2,2.7-2.4,3.7c-0.3,1-0.2,2.5,0.2,3.1c0.4,0.7,1.4,0.9,2.4,0.9c1,0,5.2-2,5.7-2.5s2-1.7,2.7-1.9
-	c0.7-0.2,2.9,0.2,4.1,1.1s8.7,6,9.5,6.1c0.8,0.2,5.5,0.5,8.3,0.5c2.8,0,7.1-0.2,8.2-0.5s7.5-3.8,8.6-4.1c1.1-0.3,15.5-0.1,16.8,0
-	c1.3,0.1,8.2,0.5,9.6,0.2c1.4-0.3,5.2-1.8,6.7-2.6c1.5-0.8,2.7-1.9,3.8-2c1-0.1,1.4,0.5,1.8,1.1"></path>
-                                                                                </svg>
-                                                                            </div>
-                                                                        </div>
+                                                                                    viewBox="14 2 176.17 65.11"
+                                                                                    preserveAspectRatio="none"
+                                                                                    xml:space="preserve">
+                                                                                    <path
+                                                                                        id="qodef-svg--custom-shape-cf-678h"
+                                                                                        d="m21.343 17.704 146.42-8.886 12.96 46.846-138.677 4.783-8.026.109-4.086.161-3.248.091-.316-3.089-.368-2.928-.305-3.184-.627-5.157-.869-6.005-2.858-22.741Z" />
+                                                                                </svg></span></button>
                                                                     </div>
-                                                                </div>
+                                                                    <div class="wpcf7-response-output"
+                                                                        aria-hidden="true">
+                                                                    </div>
+                                                                </form>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </section>
-                                                <section
-                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-f09fa71 elementor-section-full_width qodef-frame-svg-disable-below--680 elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
-                                                    data-id="f09fa71" data-element_type="section"
-                                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                    <div class="elementor-container elementor-column-gap-no">
-                                                        <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a5cc5e1"
-                                                            data-id="a5cc5e1" data-element_type="column">
-                                                            <div
-                                                                class="elementor-widget-wrap elementor-element-populated">
-                                                                <div class="elementor-element elementor-element-63771a0 elementor-widget elementor-widget-munich_core_clients_list"
-                                                                    data-id="63771a0" data-element_type="widget"
-                                                                    data-widget_type="munich_core_clients_list.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div
-                                                                            class="qodef-shortcode qodef-m  qodef-clients-list qodef-grid qodef-layout--columns  qodef-gutter--huge qodef-col-num--4 qodef-item-layout--image-only qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--4 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1 qodef-hover-animation--move">
-                                                                            <div class="qodef-grid-inner clear">
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-1.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-2.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-3.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-4.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-5.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-6.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-7.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                                <span class="qodef-e qodef-grid-item ">
-                                                                                    <span class="qodef-e-inner">
-                                                                                        <span class="qodef-e-image">
-                                                                                            <a itemprop="url" href="#"
-                                                                                                target="_blank">
-                                                                                                <span
-                                                                                                    class="qodef-e-logo">
-                                                                                                    <img width="170"
-                                                                                                        height="115"
-                                                                                                        src="wp-content/uploads/2022/03/client-8.png"
-                                                                                                        class="attachment-full size-full"
-                                                                                                        alt="e"
-                                                                                                        loading="lazy" />
-                                                                                                </span>
-                                                                                            </a>
-                                                                                        </span>
-                                                                                    </span>
-                                                                                </span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </section>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-top-section elementor-element elementor-element-30f2de5 elementor-section-full_width elementor-reverse-mobile_extra elementor-reverse-mobile elementor-section-height-default elementor-section-height-default qodef-elementor-content-no qodef-elementor-back-btn-skin-default"
-                                    data-id="30f2de5" data-element_type="section">
-                                    <div class="elementor-container elementor-column-gap-no">
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f23aa9"
-                                            data-id="6f23aa9" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-f777b4d elementor-widget__width-auto elementor-widget elementor-widget-munich_core_single_image"
-                                                    data-id="f777b4d" data-element_type="widget"
-                                                    data-widget_type="munich_core_single_image.default">
-                                                    <div class="elementor-widget-container">
+                                    <!-- <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c34db33"
+                                        data-id="c34db33" data-element_type="column">
+                                        <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-6f07e9e elementor-widget elementor-widget-munich_core_testimonials_list"
+                                                data-id="6f07e9e" data-element_type="widget"
+                                                data-widget_type="munich_core_testimonials_list.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="qodef-shortcode qodef-m  qodef-testimonials-list qodef-grid qodef-swiper-container  qodef-gutter--normal qodef-col-num--1 qodef-item-layout--info-aside qodef-responsive--predefined"
+                                                        data-options="{&quot;slidesPerView&quot;:&quot;1&quot;,&quot;spaceBetween&quot;:30,&quot;loop&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:&quot;&quot;,&quot;speedAnimation&quot;:&quot;&quot;,&quot;slideAnimation&quot;:&quot;&quot;,&quot;outsideNavigation&quot;:&quot;yes&quot;,&quot;unique&quot;:286}">
+                                                        <div class="swiper-wrapper">
+                                                            <div class="qodef-e swiper-slide ">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-content">
+                                                                        <div itemprop="description"
+                                                                            class="qodef-e-text">&quot;Quod simul
+                                                                            pertinax interes eum no nam veri theum
+                                                                            uteros.&quot;</div>
+                                                                        <div class="qodef-e-author">
+                                                                            <span class="qodef-e-author-name">Mary
+                                                                                Fox</span>
+                                                                            <span
+                                                                                class="qodef-e-author-job">Client</span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="qodef-e swiper-slide ">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-content">
+                                                                        <div itemprop="description"
+                                                                            class="qodef-e-text">&quot;Eum ne dicit
+                                                                            lucilius sensibus, ne dicta iriure resc
+                                                                            quodsi.&quot;</div>
+                                                                        <div class="qodef-e-author">
+                                                                            <span class="qodef-e-author-name">Adam
+                                                                                Stivens</span>
+                                                                            <span
+                                                                                class="qodef-e-author-job">Designer</span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="qodef-e swiper-slide ">
+                                                                <div class="qodef-e-inner">
+                                                                    <div class="qodef-e-content">
+                                                                        <div itemprop="description"
+                                                                            class="qodef-e-text">&quot;Assum dicant
+                                                                            aliquam at duo, ex probus timeam pro
+                                                                            adversum.&quot;</div>
+                                                                        <div class="qodef-e-author">
+                                                                            <span class="qodef-e-author-name">Jaidan
+                                                                                Dorsey</span>
+                                                                            <span
+                                                                                class="qodef-e-author-job">Developer</span>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="qodef-swiper-nav-holder">
                                                         <div
-                                                            class="qodef-shortcode qodef-m  qodef-single-image qodef-layout--default   qodef--disabled-tilt">
-                                                            <div class="qodef-m-image">
-                                                                <img width="469" height="384"
-                                                                    src="wp-content/uploads/2022/03/main-home-img-5.png"
-                                                                    class="attachment-full size-full" alt="c"
-                                                                    loading="lazy"
-                                                                    srcset="./wp-content/uploads/2022/03/main-home-img-5.png 469w, ./wp-content/uploads/2022/03/main-home-img-5-300x246.png 300w"
-                                                                    sizes="(max-width: 469px) 100vw, 469px" />
-                                                            </div>
+                                                            class="swiper-button-prev swiper-button-outside swiper-button-prev-286">
+                                                            <svg class="qodef-svg--slider-arrow-left"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 51.5 37.9"
+                                                                style="enable-background:new 0 0 51.5 37.9;"
+                                                                xml:space="preserve">
+                                                                <polygon fill="none" stroke-miterlimit="10"
+                                                                    stroke-width="2"
+                                                                    points="45.6,1 50.4,36.9 7.9,36.9 1.2,1" />
+                                                                <polyline fill="none" stroke-miterlimit="10"
+                                                                    stroke-width="2"
+                                                                    points="31.7,30.8 19.8,19 31.7,7.1 " />
+                                                            </svg>
+                                                        </div>
+                                                        <div
+                                                            class="swiper-button-next swiper-button-outside swiper-button-next-286">
+                                                            <svg class="qodef-svg--slider-arrow-right"
+                                                                xmlns="http://www.w3.org/2000/svg"
+                                                                xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+                                                                y="0px" viewBox="0 0 51.5 37.9"
+                                                                style="enable-background:new 0 0 51.5 37.9;"
+                                                                xml:space="preserve">
+                                                                <polygon fill="none" stroke-miterlimit="10"
+                                                                    stroke-width="2"
+                                                                    points="5.9,1 1.1,36.9 43.6,36.9 50.3,1" />
+                                                                <polyline fill="none" stroke-miterlimit="10"
+                                                                    stroke-width="2"
+                                                                    points="19.8,7.1 31.7,19 19.8,30.8 " />
+                                                            </svg>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c34db33"
-                                            data-id="c34db33" data-element_type="column">
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-6f07e9e elementor-widget elementor-widget-munich_core_testimonials_list"
-                                                    data-id="6f07e9e" data-element_type="widget"
-                                                    data-widget_type="munich_core_testimonials_list.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="qodef-shortcode qodef-m  qodef-testimonials-list qodef-grid qodef-swiper-container  qodef-gutter--normal qodef-col-num--1 qodef-item-layout--info-aside qodef-responsive--predefined"
-                                                            data-options="{&quot;slidesPerView&quot;:&quot;1&quot;,&quot;spaceBetween&quot;:30,&quot;loop&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:&quot;&quot;,&quot;speedAnimation&quot;:&quot;&quot;,&quot;slideAnimation&quot;:&quot;&quot;,&quot;outsideNavigation&quot;:&quot;yes&quot;,&quot;unique&quot;:286}">
-                                                            <div class="swiper-wrapper">
-                                                                <div class="qodef-e swiper-slide ">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-content">
-                                                                            <div itemprop="description"
-                                                                                class="qodef-e-text">&quot;Quod simul
-                                                                                pertinax interes eum no nam veri theum
-                                                                                uteros.&quot;</div>
-                                                                            <div class="qodef-e-author">
-                                                                                <span class="qodef-e-author-name">Mary
-                                                                                    Fox</span>
-                                                                                <span
-                                                                                    class="qodef-e-author-job">Client</span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="qodef-e swiper-slide ">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-content">
-                                                                            <div itemprop="description"
-                                                                                class="qodef-e-text">&quot;Eum ne dicit
-                                                                                lucilius sensibus, ne dicta iriure resc
-                                                                                quodsi.&quot;</div>
-                                                                            <div class="qodef-e-author">
-                                                                                <span class="qodef-e-author-name">Adam
-                                                                                    Stivens</span>
-                                                                                <span
-                                                                                    class="qodef-e-author-job">Designer</span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="qodef-e swiper-slide ">
-                                                                    <div class="qodef-e-inner">
-                                                                        <div class="qodef-e-content">
-                                                                            <div itemprop="description"
-                                                                                class="qodef-e-text">&quot;Assum dicant
-                                                                                aliquam at duo, ex probus timeam pro
-                                                                                adversum.&quot;</div>
-                                                                            <div class="qodef-e-author">
-                                                                                <span class="qodef-e-author-name">Jaidan
-                                                                                    Dorsey</span>
-                                                                                <span
-                                                                                    class="qodef-e-author-job">Developer</span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="qodef-swiper-nav-holder">
-                                                            <div
-                                                                class="swiper-button-prev swiper-button-outside swiper-button-prev-286">
-                                                                <svg class="qodef-svg--slider-arrow-left"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 51.5 37.9"
-                                                                    style="enable-background:new 0 0 51.5 37.9;"
-                                                                    xml:space="preserve">
-                                                                    <polygon fill="none" stroke-miterlimit="10"
-                                                                        stroke-width="2"
-                                                                        points="45.6,1 50.4,36.9 7.9,36.9 1.2,1" />
-                                                                    <polyline fill="none" stroke-miterlimit="10"
-                                                                        stroke-width="2"
-                                                                        points="31.7,30.8 19.8,19 31.7,7.1 " />
-                                                                </svg>
-                                                            </div>
-                                                            <div
-                                                                class="swiper-button-next swiper-button-outside swiper-button-next-286">
-                                                                <svg class="qodef-svg--slider-arrow-right"
-                                                                    xmlns="http://www.w3.org/2000/svg"
-                                                                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                                                    y="0px" viewBox="0 0 51.5 37.9"
-                                                                    style="enable-background:new 0 0 51.5 37.9;"
-                                                                    xml:space="preserve">
-                                                                    <polygon fill="none" stroke-miterlimit="10"
-                                                                        stroke-width="2"
-                                                                        points="5.9,1 1.1,36.9 43.6,36.9 50.3,1" />
-                                                                    <polyline fill="none" stroke-miterlimit="10"
-                                                                        stroke-width="2"
-                                                                        points="19.8,7.1 31.7,19 19.8,30.8 " />
-                                                                </svg>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
+                                    </div> -->
+                                </div>
+                            </section>
                         </div>
                     </div>
-                </main>
             </div>
+            </main>
         </div>
-        <footer id="qodef-page-footer" role="contentinfo">
-            <div id="qodef-page-footer-top-area">
-                <div id="qodef-page-footer-top-area-inner" class="qodef-content-grid">
-                    <div
-                        class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--1 qodef-alignment--center">
-                        <div class="qodef-grid-inner clear">
-                            <div class="qodef-grid-item">
-                                <div id="block-5" class="widget widget_block"
-                                    data-area="qodef-footer-top-area-column-1">
-                                    <div class="wp-container-19 wp-block-group">
-                                        <div class="wp-block-group__inner-container">
-                                            <figure class="wp-block-image size-full is-resized"><a
-                                                    href="index.html"><img loading="lazy"
-                                                        src="wp-content/uploads/2022/03/logo-footer.png" alt=""
-                                                        class="wp-image-1940" width="65" height="52" /></a></figure>
-                                            <div class="widget widget_munich_core_separator">
-                                                <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
-                                                    <div class="qodef-m-line"
-                                                        style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 15px">
-                                                    </div>
+    </div>
+    <footer id="qodef-page-footer" role="contentinfo">
+        <div id="qodef-page-footer-top-area">
+            <div id="qodef-page-footer-top-area-inner" class="qodef-content-grid">
+                <div
+                    class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--1 qodef-alignment--center">
+                    <div class="qodef-grid-inner clear">
+                        <div class="qodef-grid-item">
+                            <div id="block-5" class="widget widget_block" data-area="qodef-footer-top-area-column-1">
+                                <div class="wp-container-19 wp-block-group">
+                                    <div class="wp-block-group__inner-container">
+                                        <figure class="wp-block-image size-full is-resized"><a href="index.html"><img
+                                                    loading="lazy" src="wp-content/uploads/2022/03/logo-footer.png"
+                                                    alt="" class="wp-image-1940" width="65" height="52" /></a></figure>
+                                        <div class="widget widget_munich_core_separator">
+                                            <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
+                                                <div class="qodef-m-line"
+                                                    style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 15px">
                                                 </div>
                                             </div>
+                                        </div>
+                                        <div
+                                            class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center   qodef--icon-pack ">
+                                            <h3 class="qodef-m-title" style="color: #FFFFFF;font-style: normal">
+                                                feel <span class="qodef--custom">free</span> to<br /> contact us,
+                                                <span class="qodef--custom">anytime</span>
+                                            </h3>
+                                            <div class="qodef-m-icon-wrapper">
+                                                <span
+                                                    class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
+                                                </span>
+                                            </div>
+                                            <div class="qodef-m-subtitle" style="margin-top: -2px">It&#039;s time to
+                                                propel your creative drive and start creating something truly
+                                                wondrous.</div>
+                                        </div>
+                                        <div class="widget widget_munich_core_separator">
+                                            <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
+                                                <div class="qodef-m-line"
+                                                    style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 16px">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="widget widget_munich_core_social_icons_group">
                                             <div
-                                                class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center   qodef--icon-pack ">
-                                                <h3 class="qodef-m-title" style="color: #FFFFFF;font-style: normal">
-                                                    feel <span class="qodef--custom">free</span> to<br /> contact us,
-                                                    <span class="qodef--custom">anytime</span>
-                                                </h3>
-                                                <div class="qodef-m-icon-wrapper">
-                                                    <span
-                                                        class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">
-                                                    </span>
-                                                </div>
-                                                <div class="qodef-m-subtitle" style="margin-top: -2px">It&#039;s time to
-                                                    propel your creative drive and start creating something truly
-                                                    wondrous.</div>
-                                            </div>
-                                            <div class="widget widget_munich_core_separator">
-                                                <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
-                                                    <div class="qodef-m-line"
-                                                        style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 16px">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="widget widget_munich_core_social_icons_group">
-                                                <div
-                                                    class="qodef-social-icons-group qodef-icon-orientation--horizontal qodef-icon-layout--textual">
-                                                    <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
-                                                        style="color: #ffffff;margin: 0 10px 0 0">
-                                                        <a itemprop="url"
-                                                            href="https://www.instagram.com/qodeinteractive/"
-                                                            target="http://_blank">IN.</a> </span>
-                                                    <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
-                                                        style="color: #ffffff;margin: 0 10px 0 10px">
-                                                        <a itemprop="url" href="https://www.behance.net/qodeinteractive"
-                                                            target="http://_blank">BE.</a> </span>
-                                                    <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
-                                                        style="color: #ffffff;margin: 0 10px 0 10px">
-                                                        <a itemprop="url" href="https://twitter.com/qodeinteractive"
-                                                            target="http://_blank">TW.</a> </span>
-                                                    <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
-                                                        style="color: #ffffff;margin: 0 0 0 5px">
-                                                        <a itemprop="url"
-                                                            href="https://www.facebook.com/QodeInteractive/"
-                                                            target="http://_blank">FB.</a> </span>
-                                                </div>
+                                                class="qodef-social-icons-group qodef-icon-orientation--horizontal qodef-icon-layout--textual">
+                                                <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
+                                                    style="color: #ffffff;margin: 0 10px 0 0">
+                                                    <a itemprop="url" href="https://www.instagram.com/qodeinteractive/"
+                                                        target="http://_blank">IN.</a> </span>
+                                                <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
+                                                    style="color: #ffffff;margin: 0 10px 0 10px">
+                                                    <a itemprop="url" href="https://www.behance.net/qodeinteractive"
+                                                        target="http://_blank">BE.</a> </span>
+                                                <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
+                                                    style="color: #ffffff;margin: 0 10px 0 10px">
+                                                    <a itemprop="url" href="https://twitter.com/qodeinteractive"
+                                                        target="http://_blank">TW.</a> </span>
+                                                <span class="qodef-color--inherit qodef-icon-holder qodef--textual"
+                                                    style="color: #ffffff;margin: 0 0 0 5px">
+                                                    <a itemprop="url" href="https://www.facebook.com/QodeInteractive/"
+                                                        target="http://_blank">FB.</a> </span>
                                             </div>
                                         </div>
                                     </div>
@@ -13608,106 +13566,106 @@
                     </div>
                 </div>
             </div>
-            <div id="qodef-page-footer-bottom-area">
-                <div id="qodef-page-footer-bottom-area-inner" class="qodef-content-grid">
-                    <div
-                        class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--1 qodef-alignment--center">
-                        <div class="qodef-grid-inner clear">
-                            <div class="qodef-grid-item">
-                                <div id="block-14" class="widget widget_block"
-                                    data-area="qodef-footer-bottom-area-column-1">
-                                    <p
-                                        style="font-family: 'IBM Plex Serif'; font-size: 16px; letter-spacing: .03em; font-weight: 400;">
-                                        © 2022 <a href="https://qodeinteractive.com/" target="_blank">Qode
-                                            Interactive</a>, All Rights Reserved</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <a id="qodef-back-to-top" href="#" class="qodef--predefined">
-            <span class="qodef-back-to-top-text">
-                Top </span>
-            <span class="qodef-back-to-top-icon">
-                <svg class="qodef-svg--back-to-top" xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink" width="80.6px" height="83.7px" x="0px" y="0px"
-                    viewBox="0 0 80.6 83.7" style="enable-background:new 0 0 80.6 83.7;" xml:space="preserve">
-                    <style type="text/css">
-                    .st22 {
-                        fill: none;
-                        stroke-width: 1.5;
-                        stroke-miterlimit: 10;
-                    }
-                    </style>
-                    <polygon class="st22" points="3.6,81.7 12.3,4.6 24.5,13.8 31.4,4.6 40.9,15.4 47,5 54.3,15.6 62.8,7.8 66.7,16.3 73.1,10.3
-	76.9,15.8 78.8,79.9 " />
-                </svg> </span>
-        </a>
-        <div id="qodef-side-area">
-            <a href="javascript:void(0)" id="qodef-side-area-close"
-                class="qodef-opener-icon qodef-m qodef-source--predefined qodef--opened">
-                <span class="qodef-m-icon ">
-                    <span class="qodef-m-lines"><span class="qodef-m-line qodef--1"><span
-                                class="qodef-m-line-inner"></span></span><span class="qodef-m-line qodef--2"><span
-                                class="qodef-m-line-inner"></span></span></span> </span>
-            </a>
-            <div id="qodef-side-area-inner">
-                <div id="block-15" class="widget widget_block" data-area="side-area">
-                    <div class="wp-container-20 wp-block-group">
-                        <div class="wp-block-group__inner-container">
-                            <figure class="wp-block-image size-full is-resized qodef--custom-tilt"><a
-                                    href="index.html"><img loading="lazy"
-                                        src="./wp-content/uploads/2022/03/logo-side-area.png" alt="c"
-                                        class="wp-image-1822" width="363" height="156"
-                                        srcset="./wp-content/uploads/2022/03/logo-side-area.png 726w, ./wp-content/uploads/2022/03/logo-side-area-600x258.png 600w, ./wp-content/uploads/2022/03/logo-side-area-300x129.png 300w"
-                                        sizes="(max-width: 363px) 100vw, 363px" /></a></figure>
-                            <div class="widget widget_munich_core_separator">
-                                <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
-                                    <div class="qodef-m-line"
-                                        style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 56px">
-                                    </div>
-                                </div>
-                            </div>
-                            <h4 class="has-text-align-center has-white-color has-text-color">SAY HELLO!</h4>
-                            <p style="margin-bottom: -4px"><a
-                                    href="cdn-cgi/l/email-protection.html#5b362e353238331b2a343f3e32352f3e293a382f322d3e75383436"><span
-                                        class="__cf_email__"
-                                        data-cfemail="acc1d9c2c5cfc4ecddc3c8c9c5c2d8c9decdcfd8c5dac982cfc3c1">[email&#160;protected]</span></a>
-                            </p>
-                            <p style="margin-bottom: -4px">Tel: <a href="tel:123456789999">1-234-567-89999</a></p>
-                            <p><a href="https://www.google.com/maps/place/New+York+Times+Bldg,+620+8th+Ave,+New+York,+NY+10018,+USA/@40.756109,-73.9923808,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259acb56ab52f:0x1b0e6f6f1b739ea3!8m2!3d40.756105!4d-73.9901921"
-                                    target="_blank">620 Eighth Avenue, New York</a></p>
-                            <div class="widget widget_munich_core_separator">
-                                <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
-                                    <div class="qodef-m-line"
-                                        style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 57px">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="widget widget_munich_core_social_icons_group">
-                                <div
-                                    class="qodef-social-icons-group qodef-icon-orientation--horizontal qodef-icon-layout--textual">
-                                    <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 0">
-                                        <a itemprop="url" href="https://www.instagram.com/qodeinteractive/"
-                                            target="http://_blank">IN.</a> </span>
-                                    <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
-                                        <a itemprop="url" href="https://www.behance.net/qodeinteractive"
-                                            target="http://_blank">BE.</a> </span>
-                                    <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
-                                        <a itemprop="url" href="https://twitter.com/qodeinteractive"
-                                            target="http://_blank">TW.</a> </span>
-                                    <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
-                                        <a itemprop="url" href="https://www.facebook.com/QodeInteractive/"
-                                            target="http://_blank">FB.</a> </span>
-                                </div>
+        </div>
+        <div id="qodef-page-footer-bottom-area">
+            <div id="qodef-page-footer-bottom-area-inner" class="qodef-content-grid">
+                <div
+                    class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--1 qodef-alignment--center">
+                    <div class="qodef-grid-inner clear">
+                        <div class="qodef-grid-item">
+                            <div id="block-14" class="widget widget_block"
+                                data-area="qodef-footer-bottom-area-column-1">
+                                <p
+                                    style="font-family: 'IBM Plex Serif'; font-size: 16px; letter-spacing: .03em; font-weight: 400;">
+                                    © 2022 <a href="https://qodeinteractive.com/" target="_blank">Qode
+                                        Interactive</a>, All Rights Reserved</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </footer>
+    <a id="qodef-back-to-top" href="#" class="qodef--predefined">
+        <span class="qodef-back-to-top-text">
+            Top </span>
+        <span class="qodef-back-to-top-icon">
+            <svg class="qodef-svg--back-to-top" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink" width="80.6px" height="83.7px" x="0px" y="0px"
+                viewBox="0 0 80.6 83.7" style="enable-background:new 0 0 80.6 83.7;" xml:space="preserve">
+                <style type="text/css">
+                .st22 {
+                    fill: none;
+                    stroke-width: 1.5;
+                    stroke-miterlimit: 10;
+                }
+                </style>
+                <polygon class="st22" points="3.6,81.7 12.3,4.6 24.5,13.8 31.4,4.6 40.9,15.4 47,5 54.3,15.6 62.8,7.8 66.7,16.3 73.1,10.3
+	76.9,15.8 78.8,79.9 " />
+            </svg> </span>
+    </a>
+    <div id="qodef-side-area">
+        <a href="javascript:void(0)" id="qodef-side-area-close"
+            class="qodef-opener-icon qodef-m qodef-source--predefined qodef--opened">
+            <span class="qodef-m-icon ">
+                <span class="qodef-m-lines"><span class="qodef-m-line qodef--1"><span
+                            class="qodef-m-line-inner"></span></span><span class="qodef-m-line qodef--2"><span
+                            class="qodef-m-line-inner"></span></span></span> </span>
+        </a>
+        <div id="qodef-side-area-inner">
+            <div id="block-15" class="widget widget_block" data-area="side-area">
+                <div class="wp-container-20 wp-block-group">
+                    <div class="wp-block-group__inner-container">
+                        <figure class="wp-block-image size-full is-resized qodef--custom-tilt"><a href="index.html"><img
+                                    loading="lazy" src="./wp-content/uploads/2022/03/logo-side-area.png" alt="c"
+                                    class="wp-image-1822" width="363" height="156"
+                                    srcset="./wp-content/uploads/2022/03/logo-side-area.png 726w, ./wp-content/uploads/2022/03/logo-side-area-600x258.png 600w, ./wp-content/uploads/2022/03/logo-side-area-300x129.png 300w"
+                                    sizes="(max-width: 363px) 100vw, 363px" /></a></figure>
+                        <div class="widget widget_munich_core_separator">
+                            <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
+                                <div class="qodef-m-line"
+                                    style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 56px">
+                                </div>
+                            </div>
+                        </div>
+                        <h4 class="has-text-align-center has-white-color has-text-color">SAY HELLO!</h4>
+                        <p style="margin-bottom: -4px"><a
+                                href="cdn-cgi/l/email-protection.html#5b362e353238331b2a343f3e32352f3e293a382f322d3e75383436"><span
+                                    class="__cf_email__"
+                                    data-cfemail="acc1d9c2c5cfc4ecddc3c8c9c5c2d8c9decdcfd8c5dac982cfc3c1">[email&#160;protected]</span></a>
+                        </p>
+                        <p style="margin-bottom: -4px">Tel: <a href="tel:123456789999">1-234-567-89999</a></p>
+                        <p><a href="https://www.google.com/maps/place/New+York+Times+Bldg,+620+8th+Ave,+New+York,+NY+10018,+USA/@40.756109,-73.9923808,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259acb56ab52f:0x1b0e6f6f1b739ea3!8m2!3d40.756105!4d-73.9901921"
+                                target="_blank">620 Eighth Avenue, New York</a></p>
+                        <div class="widget widget_munich_core_separator">
+                            <div class="qodef-shortcode qodef-m  qodef-separator clear  ">
+                                <div class="qodef-m-line"
+                                    style="border-color: #ffffff00;border-bottom-width: 0px;margin-top: 0px;margin-bottom: 57px">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget widget_munich_core_social_icons_group">
+                            <div
+                                class="qodef-social-icons-group qodef-icon-orientation--horizontal qodef-icon-layout--textual">
+                                <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 0">
+                                    <a itemprop="url" href="https://www.instagram.com/qodeinteractive/"
+                                        target="http://_blank">IN.</a> </span>
+                                <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
+                                    <a itemprop="url" href="https://www.behance.net/qodeinteractive"
+                                        target="http://_blank">BE.</a> </span>
+                                <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
+                                    <a itemprop="url" href="https://twitter.com/qodeinteractive"
+                                        target="http://_blank">TW.</a> </span>
+                                <span class="qodef-icon-holder qodef--textual" style="margin: 0 10px 0 10px">
+                                    <a itemprop="url" href="https://www.facebook.com/QodeInteractive/"
+                                        target="http://_blank">FB.</a> </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     </div>
     <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script>
